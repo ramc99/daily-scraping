@@ -15,10 +15,13 @@ if [ -d ~/maps-scraper/outputs ]; then
 fi
 
 # seniorly-2
-if [ -d ~/seniorly-2/output ]; then
-    cp -r ~/seniorly-2/output "$DEST/seniorly-2"
-    echo "  ✓ seniorly-2"
-fi
+for dir in ~/seniorly-2/output ~/seniorly-2/outputs ~/seniorly-2/results; do
+    if [ -d "$dir" ]; then
+        cp -r "$dir" "$DEST/seniorly-2"
+        echo "  ✓ seniorly-2"
+        break
+    fi
+done
 
 # seniorly-providers
 if [ -d ~/seniorly-providers/outputs ]; then
