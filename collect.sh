@@ -3,7 +3,7 @@
 # Usage: bash collect.sh
 
 DATE=$(date +%Y-%m-%d)
-DEST=~/daily_scraping/$DATE
+DEST=~/daily-scraping/$DATE
 
 echo "Collecting outputs → $DEST"
 mkdir -p "$DEST"
@@ -33,7 +33,7 @@ if [ -d ~/seniorly-scraper/output ]; then
 fi
 
 # Push to git
-cd ~/daily_scraping
+cd ~/daily-scraping
 git add "$DATE/"
 git commit -m "Daily scraping outputs $DATE"
 git push
