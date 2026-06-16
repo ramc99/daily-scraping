@@ -1,0 +1,2058 @@
+nohup: ignoring input
+23:59:14 [INFO] === albuquerque | assisted_living ===
+23:59:15 [INFO]   [albuquerque] Browser started
+23:59:15 [INFO] [albuquerque] 1/3 Morada Albuquerque
+23:59:28 [INFO]   ✓ [albuquerque] 1/3 saved
+23:59:30 [INFO] [albuquerque] 2/3 MorningStar Assisted Living & Memory Care of Albuquerque
+23:59:42 [INFO]   ✓ [albuquerque] 2/3 saved
+23:59:44 [INFO] [albuquerque] 3/3 The Woodmark at Uptown
+23:59:59 [INFO]   ✓ [albuquerque] 3/3 saved
+00:00:02 [INFO]   [albuquerque] Browser closed (done)
+00:00:02 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/albuquerque_phase2_assisted_living.csv
+00:00:02 [INFO] === albuquerque | independent_living ===
+00:00:03 [INFO]   [albuquerque] Browser started
+00:00:03 [INFO] [albuquerque] 1/3 The Rio Grande Gracious Retirement Living
+00:00:15 [INFO]   ✓ [albuquerque] 1/3 saved
+00:00:17 [INFO] [albuquerque] 2/3 Avamere at Rio Rancho
+00:00:30 [INFO]   ✓ [albuquerque] 2/3 saved
+00:00:33 [INFO] [albuquerque] 3/3 Vineyard 55 Plus Community
+00:00:43 [INFO]   ✓ [albuquerque] 3/3 saved
+00:00:46 [INFO]   [albuquerque] Browser closed (done)
+00:00:46 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/albuquerque_phase2_independent_living.csv
+00:00:46 [INFO] === albuquerque | memory_care_units ===
+00:00:47 [INFO]   [albuquerque] Browser started
+00:00:47 [INFO] [albuquerque] 1/3 Bear Canyon Estates | Sky Active Living
+00:00:59 [INFO]   ✓ [albuquerque] 1/3 saved
+00:01:01 [INFO] [albuquerque] 2/3 Paloma Landing Gracious Retirement Living
+00:01:14 [INFO]   ✓ [albuquerque] 2/3 saved
+00:01:16 [INFO] [albuquerque] 3/3 South Valley Care Center
+00:01:35 [INFO]   ✓ [albuquerque] 3/3 saved
+00:01:38 [INFO]   [albuquerque] Browser closed (done)
+00:01:38 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/albuquerque_phase2_memory_care_units.csv
+00:01:38 [INFO] === anaheim | assisted_living ===
+00:01:39 [INFO]   [anaheim] Browser started
+00:01:39 [INFO] [anaheim] 1/3 Emerald Court
+00:01:54 [INFO]   ✓ [anaheim] 1/3 saved
+00:01:57 [INFO] [anaheim] 2/3 Marbella Anaheim
+00:02:09 [INFO]   ✓ [anaheim] 2/3 saved
+00:02:11 [INFO] [anaheim] 3/3 Harbor Heights
+00:02:26 [INFO]   ✓ [anaheim] 3/3 saved
+00:02:29 [INFO]   [anaheim] Browser closed (done)
+00:02:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/anaheim_phase2_assisted_living.csv
+00:02:29 [INFO] === anaheim | independent_living ===
+00:02:30 [INFO]   [anaheim] Browser started
+00:02:30 [INFO] [anaheim] 1/3 Villa Anaheim Senior Apartments
+00:02:44 [INFO]   ✓ [anaheim] 1/3 saved
+00:02:46 [INFO] [anaheim] 2/3 Hillcrest Village
+00:03:03 [INFO]   ✓ [anaheim] 2/3 saved
+00:03:05 [INFO] [anaheim] 3/3 New Horizon Village Senior Apartment Homes
+00:03:20 [INFO]   ✓ [anaheim] 3/3 saved
+00:03:23 [INFO]   [anaheim] Browser closed (done)
+00:03:23 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/anaheim_phase2_independent_living.csv
+00:03:23 [INFO] === anaheim | memory_care_units ===
+00:03:24 [INFO]   [anaheim] Browser started
+00:03:24 [INFO] [anaheim] 1/3 Karlton Residential Center
+00:03:39 [INFO]   ✓ [anaheim] 1/3 saved
+00:03:41 [INFO] [anaheim] 2/3 Ivy Terrace at Fullerton Memory Care
+00:03:57 [INFO]   ✓ [anaheim] 2/3 saved
+00:03:59 [INFO] [anaheim] 3/3 Addie's Cottage Senior Living
+00:04:15 [INFO]   ✓ [anaheim] 3/3 saved
+00:04:18 [INFO]   [anaheim] Browser closed (done)
+00:04:18 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/anaheim_phase2_memory_care_units.csv
+00:04:18 [INFO] === arlington | assisted_living ===
+00:04:19 [INFO]   [arlington] Browser started
+00:04:19 [INFO] [arlington] 1/3 Sunrise at Bluemont Park
+00:04:32 [INFO]   ✓ [arlington] 1/3 saved
+00:04:35 [INFO] [arlington] 2/3 Paragon Assisted Living
+00:04:49 [INFO]   ✓ [arlington] 2/3 saved
+00:04:51 [INFO] [arlington] 3/3 Culpepper Garden Apartments
+00:05:06 [INFO]   ✓ [arlington] 3/3 saved
+00:05:09 [INFO]   [arlington] Browser closed (done)
+00:05:09 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/arlington_phase2_assisted_living.csv
+00:05:09 [INFO] === arlington | independent_living ===
+00:05:10 [INFO]   [arlington] Browser started
+00:05:10 [INFO] [arlington] 1/3 Chesterbrook Residences
+00:05:22 [INFO]   ✓ [arlington] 1/3 saved
+00:05:25 [INFO] [arlington] 2/3 Benchmark at Alexandria
+00:05:40 [INFO]   ✓ [arlington] 2/3 saved
+00:05:42 [INFO] [arlington] 3/3 Brightview Alexandria - Senior Independent Living, Assisted Living, Memory Care
+00:05:56 [INFO]   ✓ [arlington] 3/3 saved
+00:05:59 [INFO]   [arlington] Browser closed (done)
+00:05:59 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/arlington_phase2_independent_living.csv
+00:05:59 [INFO] === arlington | memory_care_units ===
+00:05:59 [INFO] === atlanta | assisted_living ===
+00:06:00 [INFO]   [atlanta] Browser started
+00:06:00 [INFO] [atlanta] 1/3 Orchard at Brookhaven
+00:06:16 [INFO]   ✓ [atlanta] 1/3 saved
+00:06:18 [INFO] [atlanta] 2/3 PruittPlace - Buckhead
+00:06:33 [INFO]   ✓ [atlanta] 2/3 saved
+00:06:35 [INFO] [atlanta] 3/3 Renaissance on Peachtree
+00:06:55 [INFO]   ✓ [atlanta] 3/3 saved
+00:06:57 [INFO]   [atlanta] Browser closed (done)
+00:06:57 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/atlanta_phase2_assisted_living.csv
+00:06:57 [INFO] === atlanta | independent_living ===
+00:06:59 [INFO]   [atlanta] Browser started
+00:06:59 [INFO] [atlanta] 1/3 Hammond Glen Retirement Community
+00:07:12 [INFO]   ✓ [atlanta] 1/3 saved
+00:07:14 [INFO] [atlanta] 2/3 The Mansions at Decatur Senior Independent Living
+00:07:30 [INFO]   ✓ [atlanta] 2/3 saved
+00:07:32 [INFO] [atlanta] 3/3 Mount Vernon Village
+00:07:47 [INFO]   ✓ [atlanta] 3/3 saved
+00:07:49 [INFO]   [atlanta] Browser closed (done)
+00:07:50 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/atlanta_phase2_independent_living.csv
+00:07:50 [INFO] === atlanta | memory_care_units ===
+00:07:51 [INFO]   [atlanta] Browser started
+00:07:51 [INFO] [atlanta] 1/3 Legacy Ridge at Buckhead
+00:08:08 [INFO]   ✓ [atlanta] 1/3 saved
+00:08:10 [INFO] [atlanta] 2/3 The Fountainview Center for Alzheimer's Disease
+00:08:24 [INFO]   ✓ [atlanta] 2/3 saved
+00:08:27 [INFO] [atlanta] 3/3 Brighton Gardens of Dunwoody
+00:08:40 [INFO]   ✓ [atlanta] 3/3 saved
+00:08:43 [INFO]   [atlanta] Browser closed (done)
+00:08:43 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/atlanta_phase2_memory_care_units.csv
+00:08:43 [INFO] === aurora | assisted_living ===
+00:08:44 [INFO]   [aurora] Browser started
+00:08:44 [INFO] [aurora] 1/3 Garden Plaza of Aurora
+00:08:57 [INFO]   ✓ [aurora] 1/3 saved
+00:09:00 [INFO] [aurora] 2/3 Bickford of Aurora
+00:09:14 [INFO]   ✓ [aurora] 2/3 saved
+00:09:16 [INFO] [aurora] 3/3 Frontier Valley Independent and Assisted Living
+00:09:27 [INFO]   ✓ [aurora] 3/3 saved
+00:09:30 [INFO]   [aurora] Browser closed (done)
+00:09:30 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/aurora_phase2_assisted_living.csv
+00:09:30 [INFO] === aurora | independent_living ===
+00:09:31 [INFO]   [aurora] Browser started
+00:09:31 [INFO] [aurora] 1/3 The Wellington at Lake Manassas
+00:09:44 [INFO]   ✓ [aurora] 1/3 saved
+00:09:47 [INFO] [aurora] 2/3 V-Espirit
+00:10:01 [INFO]   ✓ [aurora] 2/3 saved
+00:10:03 [INFO] [aurora] 3/3 Village At Hampden Town Center
+00:10:21 [INFO]   ✓ [aurora] 3/3 saved
+00:10:23 [INFO]   [aurora] Browser closed (done)
+00:10:24 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/aurora_phase2_independent_living.csv
+00:10:24 [INFO] === aurora | memory_care_units ===
+00:10:24 [INFO]   [aurora] Browser started
+00:10:24 [INFO] [aurora] 1/3 Arbor Terrace Sudley Manor
+00:10:39 [INFO]   ✓ [aurora] 1/3 saved
+00:10:41 [INFO] [aurora] 2/3 Tysons Woods Assisted Living
+00:10:54 [INFO]   ✓ [aurora] 2/3 saved
+00:10:56 [INFO] [aurora] 3/3 Lavender Hills Prince William
+00:11:09 [INFO]   ✓ [aurora] 3/3 saved
+00:11:12 [INFO]   [aurora] Browser closed (done)
+00:11:12 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/aurora_phase2_memory_care_units.csv
+00:11:12 [INFO] === austin | assisted_living ===
+00:11:13 [INFO]   [austin] Browser started
+00:11:13 [INFO] [austin] 1/3 The Village at The Triangle
+00:11:24 [INFO]   ✓ [austin] 1/3 saved
+00:11:27 [INFO] [austin] 2/3 Westminster
+00:11:41 [INFO]   ✓ [austin] 2/3 saved
+00:11:43 [INFO] [austin] 3/3 The Pavilion at Great Hills
+00:11:58 [INFO]   ✓ [austin] 3/3 saved
+00:12:00 [INFO]   [austin] Browser closed (done)
+00:12:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/austin_phase2_assisted_living.csv
+00:12:00 [INFO] === austin | independent_living ===
+00:12:01 [INFO]   [austin] Browser started
+00:12:01 [INFO] [austin] 1/3 Clearwater at The Arboretum
+00:12:14 [INFO]   ✓ [austin] 1/3 saved
+00:12:16 [INFO] [austin] 2/3 Preserve at Rolling Oaks
+00:12:31 [INFO]   ✓ [austin] 2/3 saved
+00:12:33 [INFO] [austin] 3/3 Lake Travis Independent Living
+00:12:47 [INFO]   ✓ [austin] 3/3 saved
+00:12:49 [INFO]   [austin] Browser closed (done)
+00:12:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/austin_phase2_independent_living.csv
+00:12:49 [INFO] === austin | memory_care_units ===
+00:12:50 [INFO]   [austin] Browser started
+00:12:50 [INFO] [austin] 1/3 Avalon Memory Care
+00:13:05 [INFO]   ✓ [austin] 1/3 saved
+00:13:07 [INFO] [austin] 2/3 Oasis Senior Advisors Austin and Central Texas
+00:13:20 [INFO]   ✓ [austin] 2/3 saved
+00:13:22 [INFO] [austin] 3/3 Fountain View Residence At Oakstone
+00:13:41 [INFO]   ✓ [austin] 3/3 saved
+00:13:43 [INFO]   [austin] Browser closed (done)
+00:13:43 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/austin_phase2_memory_care_units.csv
+00:13:43 [INFO] === bakersfield | assisted_living ===
+00:13:45 [INFO]   [bakersfield] Browser started
+00:13:45 [INFO] [bakersfield] 1/3 Redwood Senior Living Bakersfield
+00:13:56 [INFO]   ✓ [bakersfield] 1/3 saved
+00:13:59 [INFO] [bakersfield] 2/3 Magnolia Place Senior Assisted Living & Memory Care Community
+00:14:14 [INFO]   ✓ [bakersfield] 2/3 saved
+00:14:16 [INFO] [bakersfield] 3/3 Riverstone Terrace Senior Living
+00:14:31 [INFO]   ✓ [bakersfield] 3/3 saved
+00:14:34 [INFO]   [bakersfield] Browser closed (done)
+00:14:34 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/bakersfield_phase2_assisted_living.csv
+00:14:34 [INFO] === bakersfield | independent_living ===
+00:14:35 [INFO]   [bakersfield] Browser started
+00:14:35 [INFO] [bakersfield] 1/3 Four Seasons at Bakersfield Recreation Center
+00:14:48 [INFO]   ✓ [bakersfield] 1/3 saved
+00:14:50 [INFO] [bakersfield] 2/3 Villas At Scenic River
+00:15:05 [INFO]   ✓ [bakersfield] 2/3 saved
+00:15:07 [INFO] [bakersfield] 3/3 Highgate Regents at Seven Oaks
+00:15:19 [INFO]   ✓ [bakersfield] 3/3 saved
+00:15:22 [INFO]   [bakersfield] Browser closed (done)
+00:15:22 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/bakersfield_phase2_independent_living.csv
+00:15:22 [INFO] === bakersfield | memory_care_units ===
+00:15:23 [INFO]   [bakersfield] Browser started
+00:15:23 [INFO] [bakersfield] 1/3 Alzheimer's Disease Association
+00:15:35 [INFO]   ✓ [bakersfield] 1/3 saved
+00:15:38 [INFO] [bakersfield] 2/3 Bella Vita Senior Living
+00:15:57 [INFO]   ✓ [bakersfield] 2/3 saved
+00:15:59 [INFO] [bakersfield] 3/3 Purposeful Residential Care, LLC
+00:16:16 [INFO]   ✓ [bakersfield] 3/3 saved
+00:16:19 [INFO]   [bakersfield] Browser closed (done)
+00:16:19 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/bakersfield_phase2_memory_care_units.csv
+00:16:19 [INFO] === baltimore | assisted_living ===
+00:16:20 [INFO]   [baltimore] Browser started
+00:16:20 [INFO] [baltimore] 1/3 Symphony Manor
+00:16:32 [INFO]   ✓ [baltimore] 1/3 saved
+00:16:35 [INFO] [baltimore] 2/3 Roland Park Place
+00:16:55 [INFO]   ✓ [baltimore] 2/3 saved
+00:16:58 [INFO] [baltimore] 3/3 Springwell Senior Living Community
+00:17:13 [INFO]   ✓ [baltimore] 3/3 saved
+00:17:16 [INFO]   [baltimore] Browser closed (done)
+00:17:16 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/baltimore_phase2_assisted_living.csv
+00:17:16 [INFO] === baltimore | independent_living ===
+00:17:17 [INFO]   [baltimore] Browser started
+00:17:17 [INFO] [baltimore] 1/3 Brightview Mays Chapel Ridge - Timonium Independent Living, Assisted Living, Memory Care
+00:17:31 [INFO]   ✓ [baltimore] 1/3 saved
+00:17:33 [INFO] [baltimore] 2/3 Westminster House Senior Apartments
+00:17:49 [INFO]   ✓ [baltimore] 2/3 saved
+00:17:52 [INFO] [baltimore] 3/3 Pickersgill Retirement Community
+00:18:03 [INFO]   ✓ [baltimore] 3/3 saved
+00:18:06 [INFO]   [baltimore] Browser closed (done)
+00:18:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/baltimore_phase2_independent_living.csv
+00:18:06 [INFO] === baltimore | memory_care_units ===
+00:18:07 [INFO]   [baltimore] Browser started
+00:18:07 [INFO] [baltimore] 1/3 Mabel's House Assisted Living
+00:18:18 [INFO]   ✓ [baltimore] 1/3 saved
+00:18:21 [INFO] [baltimore] 2/3 Woodholme Gardens
+00:18:35 [INFO]   ✓ [baltimore] 2/3 saved
+00:18:37 [INFO] [baltimore] 3/3 Brightview Catonsville - Senior Assisted Living & Memory Care
+00:18:51 [INFO]   ✓ [baltimore] 3/3 saved
+00:18:54 [INFO]   [baltimore] Browser closed (done)
+00:18:54 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/baltimore_phase2_memory_care_units.csv
+00:18:54 [INFO] === buffalo | assisted_living ===
+00:18:55 [INFO]   [buffalo] Browser started
+00:18:55 [INFO] [buffalo] 1/3 Mary Agnes Manor
+00:19:08 [INFO]   ✓ [buffalo] 1/3 saved
+00:19:10 [INFO] [buffalo] 2/3 Canterbury Woods Gates Circle
+00:19:25 [INFO]   ✓ [buffalo] 2/3 saved
+00:19:27 [INFO] [buffalo] 3/3 Peregrine Senior Living at Cheektowaga
+00:19:41 [INFO]   ✓ [buffalo] 3/3 saved
+00:19:44 [INFO]   [buffalo] Browser closed (done)
+00:19:44 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/buffalo_phase2_assisted_living.csv
+00:19:44 [INFO] === buffalo | independent_living ===
+00:19:45 [INFO]   [buffalo] Browser started
+00:19:45 [INFO] [buffalo] 1/3 Connect55+ Orchard Park | 60 Plus Active Adult Retirement Community
+00:19:58 [INFO]   ✓ [buffalo] 1/3 saved
+00:20:01 [INFO] [buffalo] 2/3 Mt St Mary's Senior Residence
+00:20:12 [INFO]   ✓ [buffalo] 2/3 saved
+00:20:15 [INFO] [buffalo] 3/3 FayeBrooke
+00:20:28 [INFO]   ✓ [buffalo] 3/3 saved
+00:20:31 [INFO]   [buffalo] Browser closed (done)
+00:20:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/buffalo_phase2_independent_living.csv
+00:20:31 [INFO] === buffalo | memory_care_units ===
+00:20:32 [INFO]   [buffalo] Browser started
+00:20:32 [INFO] [buffalo] 1/3 Juniper Glen Memory Care Assisted Living
+00:20:45 [INFO]   ✓ [buffalo] 1/3 saved
+00:20:47 [INFO] [buffalo] 2/3 Peregrine Senior Living at Orchard Park | Memory Care in Orchard Park, NY
+00:21:00 [INFO]   ✓ [buffalo] 2/3 saved
+00:21:02 [INFO] [buffalo] 3/3 Fredonia Place of Williamsville
+00:21:20 [INFO]   ✓ [buffalo] 3/3 saved
+00:21:22 [INFO]   [buffalo] Browser closed (done)
+00:21:22 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/buffalo_phase2_memory_care_units.csv
+00:21:22 [INFO] === chandler | assisted_living ===
+00:21:23 [INFO]   [chandler] Browser started
+00:21:23 [INFO] [chandler] 1/3 Clarendale of Chandler
+00:21:37 [INFO]   ✓ [chandler] 1/3 saved
+00:21:39 [INFO] [chandler] 2/3 Sunrise of Chandler
+00:21:54 [INFO]   ✓ [chandler] 2/3 saved
+00:21:57 [INFO] [chandler] 3/3 Brookdale Central Chandler
+00:22:11 [INFO]   ✓ [chandler] 3/3 saved
+00:22:14 [INFO]   [chandler] Browser closed (done)
+00:22:14 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chandler_phase2_assisted_living.csv
+00:22:14 [INFO] === chandler | independent_living ===
+00:22:15 [INFO]   [chandler] Browser started
+00:22:15 [INFO] [chandler] 1/3 Verena at Gilbert
+00:22:27 [INFO]   ✓ [chandler] 1/3 saved
+00:22:29 [INFO] [chandler] 2/3 Solera Chandler By Del Webb
+00:22:42 [INFO]   ✓ [chandler] 2/3 saved
+00:22:45 [INFO] [chandler] 3/3 Metropolitan Assisted Living LLC
+00:23:03 [INFO]   ✓ [chandler] 3/3 saved
+00:23:06 [INFO]   [chandler] Browser closed (done)
+00:23:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chandler_phase2_independent_living.csv
+00:23:06 [INFO] === chandler | memory_care_units ===
+00:23:07 [INFO]   [chandler] Browser started
+00:23:07 [INFO] [chandler] 1/3 Shirlee Beloved
+00:23:19 [INFO]   ✓ [chandler] 1/3 saved
+00:23:21 [INFO] [chandler] 2/3 Solterra Senior Living
+00:23:34 [INFO]   ✓ [chandler] 2/3 saved
+00:23:37 [INFO] [chandler] 3/3 Grandview Gardens
+00:23:50 [INFO]   ✓ [chandler] 3/3 saved
+00:23:53 [INFO]   [chandler] Browser closed (done)
+00:23:53 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chandler_phase2_memory_care_units.csv
+00:23:53 [INFO] === charlotte | assisted_living ===
+00:23:53 [INFO]   [charlotte] Browser started
+00:23:53 [INFO] [charlotte] 1/3 Navion of Cotswold
+00:24:05 [INFO]   ✓ [charlotte] 1/3 saved
+00:24:08 [INFO] [charlotte] 2/3 The Charlotte Assisted Living & Memory Care
+00:24:19 [INFO]   ✓ [charlotte] 2/3 saved
+00:24:22 [INFO] [charlotte] 3/3 MerryWood on Park
+00:24:41 [INFO]   ✓ [charlotte] 3/3 saved
+00:24:43 [INFO]   [charlotte] Browser closed (done)
+00:24:43 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/charlotte_phase2_assisted_living.csv
+00:24:43 [INFO] === charlotte | independent_living ===
+00:24:44 [INFO]   [charlotte] Browser started
+00:24:44 [INFO] [charlotte] 1/3 Windsor Run Senior Living Community
+00:24:58 [INFO]   ✓ [charlotte] 1/3 saved
+00:25:00 [INFO] [charlotte] 2/3 Matthews Glen
+00:25:15 [INFO]   ✓ [charlotte] 2/3 saved
+00:25:17 [INFO] [charlotte] 3/3 The Manor
+00:25:32 [INFO]   ✓ [charlotte] 3/3 saved
+00:25:35 [INFO]   [charlotte] Browser closed (done)
+00:25:35 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/charlotte_phase2_independent_living.csv
+00:25:35 [INFO] === charlotte | memory_care_units ===
+00:25:36 [INFO]   [charlotte] Browser started
+00:25:36 [INFO] [charlotte] 1/3 Willow Ridge Memory Care
+00:25:51 [INFO]   ✓ [charlotte] 1/3 saved
+00:25:53 [INFO] [charlotte] 2/3 Preston House
+00:26:06 [INFO]   ✓ [charlotte] 2/3 saved
+00:26:08 [INFO] [charlotte] 3/3 Novant Health Memory Care - SouthPark
+00:26:27 [INFO]   ✓ [charlotte] 3/3 saved
+00:26:30 [INFO]   [charlotte] Browser closed (done)
+00:26:30 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/charlotte_phase2_memory_care_units.csv
+00:26:30 [INFO] === chicago | assisted_living ===
+00:26:31 [INFO]   [chicago] Browser started
+00:26:31 [INFO] [chicago] 1/3 Belmont Village Senior Living Lincoln Park
+00:26:41 [INFO]   ✓ [chicago] 1/3 saved
+00:26:44 [INFO] [chicago] 2/3 New City Supportive Living
+00:26:59 [INFO]   ✓ [chicago] 2/3 saved
+00:27:02 [INFO] [chicago] 3/3 Montclare Supportive Living Community
+00:27:16 [INFO]   ✓ [chicago] 3/3 saved
+00:27:19 [INFO]   [chicago] Browser closed (done)
+00:27:19 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chicago_phase2_assisted_living.csv
+00:27:19 [INFO] === chicago | independent_living ===
+00:27:20 [INFO]   [chicago] Browser started
+00:27:20 [INFO] [chicago] 1/3 The Breakers at Edgewater Beach
+00:27:34 [INFO]   ✓ [chicago] 1/3 saved
+00:27:36 [INFO] [chicago] 2/3 Senior Suites of Marquette Village
+00:27:51 [INFO]   ✓ [chicago] 2/3 saved
+00:27:54 [INFO] [chicago] 3/3 Broad Street Home Care
+00:28:03 [INFO]   ✓ [chicago] 3/3 saved
+00:28:06 [INFO]   [chicago] Browser closed (done)
+00:28:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chicago_phase2_independent_living.csv
+00:28:06 [INFO] === chicago | memory_care_units ===
+00:28:07 [INFO]   [chicago] Browser started
+00:28:07 [INFO] [chicago] 1/3 Ascension Living Resurrection Village
+00:28:21 [INFO]   ✓ [chicago] 1/3 saved
+00:28:24 [INFO] [chicago] 2/3 Pioneer Gardens
+00:28:37 [INFO]   ✓ [chicago] 2/3 saved
+00:28:39 [INFO] [chicago] 3/3 Discovery Commons Orland Park
+00:28:49 [INFO]   ✓ [chicago] 3/3 saved
+00:28:52 [INFO]   [chicago] Browser closed (done)
+00:28:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/chicago_phase2_memory_care_units.csv
+00:28:52 [INFO] === cincinnati | assisted_living ===
+00:28:53 [INFO]   [cincinnati] Browser started
+00:28:53 [INFO] [cincinnati] 1/3 Barrington of Oakley
+00:29:08 [INFO]   ✓ [cincinnati] 1/3 saved
+00:29:11 [INFO] [cincinnati] 2/3 Evergreen Retirement Community
+00:29:25 [INFO]   ✓ [cincinnati] 2/3 saved
+00:29:27 [INFO] [cincinnati] 3/3 The Ashton at Anderson
+00:29:43 [INFO]   ✓ [cincinnati] 3/3 saved
+00:29:45 [INFO]   [cincinnati] Browser closed (done)
+00:29:45 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/cincinnati_phase2_assisted_living.csv
+00:29:45 [INFO] === cincinnati | independent_living ===
+00:29:47 [INFO]   [cincinnati] Browser started
+00:29:47 [INFO] [cincinnati] 1/3 Madison Villa
+00:29:58 [INFO]   ✓ [cincinnati] 1/3 saved
+00:30:01 [INFO] [cincinnati] 2/3 Bayley at Green Township
+00:30:19 [INFO]   ✓ [cincinnati] 2/3 saved
+00:30:21 [INFO] [cincinnati] 3/3 Ivy Pointe Senior Apartments
+00:30:36 [INFO]   ✓ [cincinnati] 3/3 saved
+00:30:39 [INFO]   [cincinnati] Browser closed (done)
+00:30:39 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/cincinnati_phase2_independent_living.csv
+00:30:39 [INFO] === cincinnati | memory_care_units ===
+00:30:40 [INFO]   [cincinnati] Browser started
+00:30:40 [INFO] [cincinnati] 1/3 Arden Courts (Anderson Twp.)
+00:30:52 [INFO]   ✓ [cincinnati] 1/3 saved
+00:30:54 [INFO] [cincinnati] 2/3 Gardens of Oakley
+00:31:13 [INFO]   ✓ [cincinnati] 2/3 saved
+00:31:16 [INFO] [cincinnati] 3/3 Alois Alzheimer's Center
+00:31:27 [INFO]   ✓ [cincinnati] 3/3 saved
+00:31:29 [INFO]   [cincinnati] Browser closed (done)
+00:31:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/cincinnati_phase2_memory_care_units.csv
+00:31:29 [INFO] === colorado_springs | assisted_living ===
+00:31:30 [INFO]   [colorado_springs] Browser started
+00:31:30 [INFO] [colorado_springs] 1/3 Hemsley House at University Park
+00:31:43 [INFO]   ✓ [colorado_springs] 1/3 saved
+00:31:46 [INFO] [colorado_springs] 2/3 The Lodge at Palmer Point Residential Assisted Living
+00:32:01 [INFO]   ✓ [colorado_springs] 2/3 saved
+00:32:04 [INFO] [colorado_springs] 3/3 Winslow Court Assisted & Senior Living
+00:32:17 [INFO]   ✓ [colorado_springs] 3/3 saved
+00:32:19 [INFO]   [colorado_springs] Browser closed (done)
+00:32:19 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/colorado_springs_phase2_assisted_living.csv
+00:32:19 [INFO] === colorado_springs | independent_living ===
+00:32:21 [INFO]   [colorado_springs] Browser started
+00:32:21 [INFO] [colorado_springs] 1/3 Revel Province
+00:32:35 [INFO]   ✓ [colorado_springs] 1/3 saved
+00:32:37 [INFO] [colorado_springs] 2/3 The Villa At Sunny Vista
+00:32:56 [INFO]   ✓ [colorado_springs] 2/3 saved
+00:32:59 [INFO] [colorado_springs] 3/3 Traditions at Colorado Springs
+00:33:14 [INFO]   ✓ [colorado_springs] 3/3 saved
+00:33:17 [INFO]   [colorado_springs] Browser closed (done)
+00:33:17 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/colorado_springs_phase2_independent_living.csv
+00:33:17 [INFO] === colorado_springs | memory_care_units ===
+00:33:17 [INFO]   [colorado_springs] Browser started
+00:33:17 [INFO] [colorado_springs] 1/3 Springs Ranch Memory Care Community
+00:33:28 [INFO]   ✓ [colorado_springs] 1/3 saved
+00:33:31 [INFO] [colorado_springs] 2/3 StoneCreek of Flying Horse Senior Living
+00:33:44 [INFO]   ✓ [colorado_springs] 2/3 saved
+00:33:47 [INFO] [colorado_springs] 3/3 Garden Ranch Assisted Living
+00:33:57 [INFO]   ✓ [colorado_springs] 3/3 saved
+00:34:00 [INFO]   [colorado_springs] Browser closed (done)
+00:34:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/colorado_springs_phase2_memory_care_units.csv
+00:34:00 [INFO] === columbus | assisted_living ===
+00:34:01 [INFO]   [columbus] Browser started
+00:34:01 [INFO] [columbus] 1/3 The Woodlands of Columbus
+00:34:14 [INFO]   ✓ [columbus] 1/3 saved
+00:34:17 [INFO] [columbus] 2/3 Ohio Living Westminster-Thurber
+00:34:35 [INFO]   ✓ [columbus] 2/3 saved
+00:34:37 [INFO] [columbus] 3/3 Wesley Glen
+00:34:53 [INFO]   ✓ [columbus] 3/3 saved
+00:34:56 [INFO]   [columbus] Browser closed (done)
+00:34:56 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/columbus_phase2_assisted_living.csv
+00:34:56 [INFO] === columbus | independent_living ===
+00:34:56 [INFO]   [columbus] Browser started
+00:34:56 [INFO] [columbus] 1/3 Claremont Retirement Village
+00:35:10 [INFO]   ✓ [columbus] 1/3 saved
+00:35:12 [INFO] [columbus] 2/3 Rittenhouse Village Gahanna
+00:35:25 [INFO]   ✓ [columbus] 2/3 saved
+00:35:28 [INFO] [columbus] 3/3 Commons At Livingston
+00:35:45 [INFO]   ✓ [columbus] 3/3 saved
+00:35:48 [INFO]   [columbus] Browser closed (done)
+00:35:48 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/columbus_phase2_independent_living.csv
+00:35:48 [INFO] === columbus | memory_care_units ===
+00:35:49 [INFO]   [columbus] Browser started
+00:35:49 [INFO] [columbus] 1/3 Westerwood
+00:36:01 [INFO]   ✓ [columbus] 1/3 saved
+00:36:03 [INFO] [columbus] 2/3 Crown Pointe Care Center
+00:36:15 [INFO]   ✓ [columbus] 2/3 saved
+00:36:18 [INFO] [columbus] 3/3 Harmony Trace
+00:36:30 [INFO]   ✓ [columbus] 3/3 saved
+00:36:33 [INFO]   [columbus] Browser closed (done)
+00:36:33 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/columbus_phase2_memory_care_units.csv
+00:36:33 [INFO] === corpus_christi | assisted_living ===
+00:36:34 [INFO]   [corpus_christi] Browser started
+00:36:34 [INFO] [corpus_christi] 1/3 The Waterford at Corpus Christi
+00:36:45 [INFO]   ✓ [corpus_christi] 1/3 saved
+00:36:47 [INFO] [corpus_christi] 2/3 The Viera Senior Living
+00:37:02 [INFO]   ✓ [corpus_christi] 2/3 saved
+00:37:05 [INFO] [corpus_christi] 3/3 Elan Corpus Christi
+00:37:23 [INFO]   ✓ [corpus_christi] 3/3 saved
+00:37:26 [INFO]   [corpus_christi] Browser closed (done)
+00:37:26 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/corpus_christi_phase2_assisted_living.csv
+00:37:26 [INFO] === corpus_christi | independent_living ===
+00:37:27 [INFO]   [corpus_christi] Browser started
+00:37:27 [INFO] [corpus_christi] 1/3 Buena Vida Senior Village
+00:37:39 [INFO]   ✓ [corpus_christi] 1/3 saved
+00:37:42 [INFO] [corpus_christi] 2/3 Windsor Nursing and Rehabilitation Center of Corpus Christi
+00:37:58 [INFO]   ✓ [corpus_christi] 2/3 saved
+00:38:00 [INFO] [corpus_christi] 3/3 Corpus Christi State Living Center
+00:38:17 [INFO]   ✓ [corpus_christi] 3/3 saved
+00:38:20 [INFO]   [corpus_christi] Browser closed (done)
+00:38:20 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/corpus_christi_phase2_independent_living.csv
+00:38:20 [INFO] === corpus_christi | memory_care_units ===
+00:38:20 [INFO] === dallas | assisted_living ===
+00:38:21 [INFO]   [dallas] Browser started
+00:38:21 [INFO] [dallas] 1/3 Unbridled Living of Dallas
+00:38:35 [INFO]   ✓ [dallas] 1/3 saved
+00:38:37 [INFO] [dallas] 2/3 Belmont Village Senior Living Turtle Creek
+00:38:52 [INFO]   ✓ [dallas] 2/3 saved
+00:38:55 [INFO] [dallas] 3/3 The Sage Oak
+00:39:04 [INFO]   ✓ [dallas] 3/3 saved
+00:39:06 [INFO]   [dallas] Browser closed (done)
+00:39:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/dallas_phase2_assisted_living.csv
+00:39:06 [INFO] === dallas | independent_living ===
+00:39:08 [INFO]   [dallas] Browser started
+00:39:08 [INFO] [dallas] 1/3 Polo Ridge by GFO Home
+00:39:18 [INFO]   ✓ [dallas] 1/3 saved
+00:39:20 [INFO] [dallas] 2/3 Highpoint Senior Living
+00:39:34 [INFO]   ✓ [dallas] 2/3 saved
+00:39:37 [INFO] [dallas] 3/3 Tyler Street Tower Independent Senior Living
+00:39:56 [INFO]   ✓ [dallas] 3/3 saved
+00:39:59 [INFO]   [dallas] Browser closed (done)
+00:39:59 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/dallas_phase2_independent_living.csv
+00:39:59 [INFO] === dallas | memory_care_units ===
+00:40:00 [INFO]   [dallas] Browser started
+00:40:00 [INFO] [dallas] 1/3 The Villages of Lake Highlands
+00:40:12 [INFO]   ✓ [dallas] 1/3 saved
+00:40:15 [INFO] [dallas] 2/3 Avalon Memory Care
+00:40:33 [INFO]   ✓ [dallas] 2/3 saved
+00:40:36 [INFO] [dallas] 3/3 Avalon Memory Care
+00:40:49 [INFO]   ✓ [dallas] 3/3 saved
+00:40:52 [INFO]   [dallas] Browser closed (done)
+00:40:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/dallas_phase2_memory_care_units.csv
+00:40:52 [INFO] === denver | assisted_living ===
+00:40:53 [INFO]   [denver] Browser started
+00:40:53 [INFO] [denver] 1/3 Rosemark At Mayfair Park
+00:41:07 [INFO]   ✓ [denver] 1/3 saved
+00:41:10 [INFO] [denver] 2/3 The Gardens at St Elizabeth
+00:41:25 [INFO]   ✓ [denver] 2/3 saved
+00:41:28 [INFO] [denver] 3/3 The Courtyards at Mountain View
+00:41:43 [INFO]   ✓ [denver] 3/3 saved
+00:41:46 [INFO]   [denver] Browser closed (done)
+00:41:46 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/denver_phase2_assisted_living.csv
+00:41:46 [INFO] === denver | independent_living ===
+00:41:47 [INFO]   [denver] Browser started
+00:41:47 [INFO] [denver] 1/3 Hilltop Reserve Senior Living
+00:41:59 [INFO]   ✓ [denver] 1/3 saved
+00:42:02 [INFO] [denver] 2/3 Carmel Oaks
+00:42:13 [INFO]   ✓ [denver] 2/3 saved
+00:42:15 [INFO] [denver] 3/3 Overture Central Park
+00:42:29 [INFO]   ✓ [denver] 3/3 saved
+00:42:32 [INFO]   [denver] Browser closed (done)
+00:42:32 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/denver_phase2_independent_living.csv
+00:42:32 [INFO] === denver | memory_care_units ===
+00:42:33 [INFO]   [denver] Browser started
+00:42:33 [INFO] [denver] 1/3 Stacy's Helping Hand
+00:42:46 [INFO]   ✓ [denver] 1/3 saved
+00:42:48 [INFO] [denver] 2/3 Applewood Our House Assisted Living Memory Care Lakewood
+00:43:08 [INFO]   ✓ [denver] 2/3 saved
+00:43:10 [INFO] [denver] 3/3 Rocky Mountain Assisted Living and Memory Care
+00:43:29 [INFO]   ✓ [denver] 3/3 saved
+00:43:32 [INFO]   [denver] Browser closed (done)
+00:43:32 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/denver_phase2_memory_care_units.csv
+00:43:32 [INFO] === el_paso | assisted_living ===
+00:43:33 [INFO]   [el_paso] Browser started
+00:43:33 [INFO] [el_paso] 1/3 Solstice Senior Living at Rio Norte
+00:43:47 [INFO]   ✓ [el_paso] 1/3 saved
+00:43:50 [INFO] [el_paso] 2/3 The Legacy at Cimarron
+00:44:03 [INFO]   ✓ [el_paso] 2/3 saved
+00:44:05 [INFO] [el_paso] 3/3 The MonteVista at Coronado Assisted & Senior Living
+00:44:24 [INFO]   ✓ [el_paso] 3/3 saved
+00:44:27 [INFO]   [el_paso] Browser closed (done)
+00:44:27 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/el_paso_phase2_assisted_living.csv
+00:44:27 [INFO] === el_paso | independent_living ===
+00:44:27 [INFO]   [el_paso] Browser started
+00:44:27 [INFO] [el_paso] 1/3 Bienvivir All-Inclusive Senior Health
+00:44:42 [INFO]   ✓ [el_paso] 1/3 saved
+00:44:45 [INFO] [el_paso] 2/3 Casa Bienvivir
+00:44:58 [INFO]   ✓ [el_paso] 2/3 saved
+00:45:00 [INFO] [el_paso] 3/3 Western Carolina
+00:45:15 [INFO]   ✓ [el_paso] 3/3 saved
+00:45:18 [INFO]   [el_paso] Browser closed (done)
+00:45:18 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/el_paso_phase2_independent_living.csv
+00:45:18 [INFO] === el_paso | memory_care_units ===
+00:45:18 [INFO]   [el_paso] Browser started
+00:45:18 [INFO] [el_paso] 1/3 Adult Foster Homes
+00:45:33 [INFO]   ✓ [el_paso] 1/3 saved
+00:45:35 [INFO] [el_paso] 2/3 Los Arcos del Norte Care Center
+00:45:48 [INFO]   ✓ [el_paso] 2/3 saved
+00:45:51 [INFO] [el_paso] 3/3 Casa De Bellamie Assisted Living Home
+00:46:04 [INFO]   ✓ [el_paso] 3/3 saved
+00:46:07 [INFO]   [el_paso] Browser closed (done)
+00:46:07 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/el_paso_phase2_memory_care_units.csv
+00:46:07 [INFO] === fort_wayne | assisted_living ===
+00:46:08 [INFO]   [fort_wayne] Browser started
+00:46:08 [INFO] [fort_wayne] 1/3 Cedar Creek of Fort Wayne
+00:46:21 [INFO]   ✓ [fort_wayne] 1/3 saved
+00:46:23 [INFO] [fort_wayne] 2/3 Coventry Meadows Assisted Living
+00:46:36 [INFO]   ✓ [fort_wayne] 2/3 saved
+00:46:39 [INFO] [fort_wayne] 3/3 The Crossings at Covington Commons
+00:46:52 [INFO]   ✓ [fort_wayne] 3/3 saved
+00:46:55 [INFO]   [fort_wayne] Browser closed (done)
+00:46:55 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_wayne_phase2_assisted_living.csv
+00:46:55 [INFO] === fort_wayne | independent_living ===
+00:46:56 [INFO]   [fort_wayne] Browser started
+00:46:56 [INFO] [fort_wayne] 1/3 Always Inspired Independent Living Program Inc
+00:47:12 [INFO]   ✓ [fort_wayne] 1/3 saved
+00:47:14 [INFO] [fort_wayne] 2/3 Waynedale Retirement Community
+00:47:31 [INFO]   ✓ [fort_wayne] 2/3 saved
+00:47:34 [INFO] [fort_wayne] 3/3 St. Joe Retirement Community
+00:47:50 [INFO]   ✓ [fort_wayne] 3/3 saved
+00:47:52 [INFO]   [fort_wayne] Browser closed (done)
+00:47:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_wayne_phase2_independent_living.csv
+00:47:52 [INFO] === fort_wayne | memory_care_units ===
+00:47:53 [INFO]   [fort_wayne] Browser started
+00:47:53 [INFO] [fort_wayne] 1/1 Lutheran Life Villages - The Village at Inverness
+00:48:05 [INFO]   ✓ [fort_wayne] 1/1 saved
+00:48:08 [INFO]   [fort_wayne] Browser closed (done)
+00:48:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_wayne_phase2_memory_care_units.csv
+00:48:08 [INFO] === fort_worth | assisted_living ===
+00:48:09 [INFO]   [fort_worth] Browser started
+00:48:09 [INFO] [fort_worth] 1/3 Sunrise of Fort Worth
+00:48:23 [INFO]   ✓ [fort_worth] 1/3 saved
+00:48:25 [INFO] [fort_worth] 2/3 Legend of Fort Worth
+00:48:38 [INFO]   ✓ [fort_worth] 2/3 saved
+00:48:40 [INFO] [fort_worth] 3/3 Lotus Assisted Living Facility LLC
+00:48:54 [INFO]   ✓ [fort_worth] 3/3 saved
+00:48:57 [INFO]   [fort_worth] Browser closed (done)
+00:48:57 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_worth_phase2_assisted_living.csv
+00:48:57 [INFO] === fort_worth | independent_living ===
+00:48:58 [INFO]   [fort_worth] Browser started
+00:48:58 [INFO] [fort_worth] 1/3 Sedona Place
+00:49:11 [INFO]   ✓ [fort_worth] 1/3 saved
+00:49:13 [INFO] [fort_worth] 2/3 Asher Point Independent Living of Arlington
+00:49:26 [INFO]   ✓ [fort_worth] 2/3 saved
+00:49:29 [INFO] [fort_worth] 3/3 The Wellington at North Richland Hills
+00:49:43 [INFO]   ✓ [fort_worth] 3/3 saved
+00:49:46 [INFO]   [fort_worth] Browser closed (done)
+00:49:46 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_worth_phase2_independent_living.csv
+00:49:46 [INFO] === fort_worth | memory_care_units ===
+00:49:47 [INFO]   [fort_worth] Browser started
+00:49:47 [INFO] [fort_worth] 1/3 James L. West Center for Dementia Care
+00:50:01 [INFO]   ✓ [fort_worth] 1/3 saved
+00:50:03 [INFO] [fort_worth] 2/3 Chisholm Trail Senior Living
+00:50:21 [INFO]   ✓ [fort_worth] 2/3 saved
+00:50:23 [INFO] [fort_worth] 3/3 Ridgmar Place
+00:50:37 [INFO]   ✓ [fort_worth] 3/3 saved
+00:50:40 [INFO]   [fort_worth] Browser closed (done)
+00:50:40 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fort_worth_phase2_memory_care_units.csv
+00:50:40 [INFO] === fresno | assisted_living ===
+00:50:40 [INFO]   [fresno] Browser started
+00:50:40 [INFO] [fresno] 1/3 Westmont of Fresno
+00:50:53 [INFO]   ✓ [fresno] 1/3 saved
+00:50:55 [INFO] [fresno] 2/3 Oakmont of Fresno
+00:51:09 [INFO]   ✓ [fresno] 2/3 saved
+00:51:11 [INFO] [fresno] 3/3 Kingston Bay Senior Living
+00:51:25 [INFO]   ✓ [fresno] 3/3 saved
+00:51:28 [INFO]   [fresno] Browser closed (done)
+00:51:28 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fresno_phase2_assisted_living.csv
+00:51:28 [INFO] === fresno | independent_living ===
+00:51:29 [INFO]   [fresno] Browser started
+00:51:29 [INFO] [fresno] 1/3 Maravillosa-Luxury Senior Living
+00:51:40 [INFO]   ✓ [fresno] 1/3 saved
+00:51:43 [INFO] [fresno] 2/3 Glen Agnes Elderly Housing
+00:51:55 [INFO]   ✓ [fresno] 2/3 saved
+00:51:57 [INFO] [fresno] 3/3 Westwood Bluffs
+00:52:11 [INFO]   ✓ [fresno] 3/3 saved
+00:52:14 [INFO]   [fresno] Browser closed (done)
+00:52:14 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fresno_phase2_independent_living.csv
+00:52:14 [INFO] === fresno | memory_care_units ===
+00:52:15 [INFO]   [fresno] Browser started
+00:52:15 [INFO] [fresno] 1/3 River Bluffs Memory Care
+00:52:28 [INFO]   ✓ [fresno] 1/3 saved
+00:52:30 [INFO] [fresno] 2/3 Garden Terrace Assisted Living
+00:52:43 [INFO]   ✓ [fresno] 2/3 saved
+00:52:45 [INFO] [fresno] 3/3 Victoria's Care Home
+00:53:03 [INFO]   ✓ [fresno] 3/3 saved
+00:53:06 [INFO]   [fresno] Browser closed (done)
+00:53:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/fresno_phase2_memory_care_units.csv
+00:53:06 [INFO] === greensboro | assisted_living ===
+00:53:07 [INFO]   [greensboro] Browser started
+00:53:07 [INFO] [greensboro] 1/3 Abbotswood at Irving Park
+00:53:21 [INFO]   ✓ [greensboro] 1/3 saved
+00:53:24 [INFO] [greensboro] 2/3 Heritage Greens
+00:53:38 [INFO]   ✓ [greensboro] 2/3 saved
+00:53:40 [INFO] [greensboro] 3/3 Spring Arbor of Greensboro
+00:53:53 [INFO]   ✓ [greensboro] 3/3 saved
+00:53:56 [INFO]   [greensboro] Browser closed (done)
+00:53:56 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/greensboro_phase2_assisted_living.csv
+00:53:56 [INFO] === greensboro | independent_living ===
+00:53:57 [INFO]   [greensboro] Browser started
+00:53:57 [INFO] [greensboro] 1/3 Guilford Health Care Center
+00:54:10 [INFO]   ✓ [greensboro] 1/3 saved
+00:54:12 [INFO] [greensboro] 2/3 St Leo's Place
+00:54:30 [INFO]   ✓ [greensboro] 2/3 saved
+00:54:33 [INFO] [greensboro] 3/3 Seager Place
+00:54:49 [INFO]   ✓ [greensboro] 3/3 saved
+00:54:52 [INFO]   [greensboro] Browser closed (done)
+00:54:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/greensboro_phase2_independent_living.csv
+00:54:52 [INFO] === greensboro | memory_care_units ===
+00:54:53 [INFO]   [greensboro] Browser started
+00:54:53 [INFO] [greensboro] 1/1 Morningview at Irving Park
+00:55:05 [INFO]   ✓ [greensboro] 1/1 saved
+00:55:08 [INFO]   [greensboro] Browser closed (done)
+00:55:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/greensboro_phase2_memory_care_units.csv
+00:55:08 [INFO] === henderson | assisted_living ===
+00:55:08 [INFO]   [henderson] Browser started
+00:55:08 [INFO] [henderson] 1/3 BeeHive Homes of Henderson
+00:55:22 [INFO]   ✓ [henderson] 1/3 saved
+00:55:25 [INFO] [henderson] 2/3 Caring Angels Henderson
+00:55:39 [INFO]   ✓ [henderson] 2/3 saved
+00:55:41 [INFO] [henderson] 3/3 MorningStar Senior Living at Westgate
+00:56:01 [INFO]   ✓ [henderson] 3/3 saved
+00:56:03 [INFO]   [henderson] Browser closed (done)
+00:56:03 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/henderson_phase2_assisted_living.csv
+00:56:03 [INFO] === henderson | independent_living ===
+00:56:05 [INFO]   [henderson] Browser started
+00:56:05 [INFO] [henderson] 1/3 Del Webb at Lake Las Vegas- 55+ Retirement Community
+00:56:18 [INFO]   ✓ [henderson] 1/3 saved
+00:56:20 [INFO] [henderson] 2/3 Lakeview Terrace of Boulder City
+00:56:35 [INFO]   ✓ [henderson] 2/3 saved
+00:56:38 [INFO] [henderson] 3/3 Mera Henderson
+00:56:51 [INFO]   ✓ [henderson] 3/3 saved
+00:56:54 [INFO]   [henderson] Browser closed (done)
+00:56:54 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/henderson_phase2_independent_living.csv
+00:56:54 [INFO] === henderson | memory_care_units ===
+00:56:55 [INFO]   [henderson] Browser started
+00:56:55 [INFO] [henderson] 1/3 Memory Lane Assisted Living
+00:57:12 [INFO]   ✓ [henderson] 1/3 saved
+00:57:15 [INFO] [henderson] 2/3 Green Valley Memory Care
+00:57:33 [INFO]   ✓ [henderson] 2/3 saved
+00:57:36 [INFO] [henderson] 3/3 The Bridges on Parkview
+00:57:49 [INFO]   ✓ [henderson] 3/3 saved
+00:57:52 [INFO]   [henderson] Browser closed (done)
+00:57:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/henderson_phase2_memory_care_units.csv
+00:57:52 [INFO] === honolulu | assisted_living ===
+00:57:53 [INFO]   [honolulu] Browser started
+00:57:53 [INFO] [honolulu] 1/3 The Plaza at Punchbowl
+00:58:08 [INFO]   ✓ [honolulu] 1/3 saved
+00:58:11 [INFO] [honolulu] 2/3 The Plaza at Waikiki
+00:58:26 [INFO]   ✓ [honolulu] 2/3 saved
+00:58:29 [INFO] [honolulu] 3/3 One Kalakaua Senior Living
+00:58:43 [INFO]   ✓ [honolulu] 3/3 saved
+00:58:46 [INFO]   [honolulu] Browser closed (done)
+00:58:46 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/honolulu_phase2_assisted_living.csv
+00:58:46 [INFO] === honolulu | independent_living ===
+00:58:47 [INFO]   [honolulu] Browser started
+00:58:47 [INFO] [honolulu] 1/3 The Plaza at Pearl City
+00:59:02 [INFO]   ✓ [honolulu] 1/3 saved
+00:59:04 [INFO] [honolulu] 2/3 Ilima at Leihano
+00:59:18 [INFO]   ✓ [honolulu] 2/3 saved
+00:59:20 [INFO] [honolulu] 3/3 Meheula Vista
+00:59:34 [INFO]   ✓ [honolulu] 3/3 saved
+00:59:37 [INFO]   [honolulu] Browser closed (done)
+00:59:37 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/honolulu_phase2_independent_living.csv
+00:59:37 [INFO] === honolulu | memory_care_units ===
+00:59:38 [INFO]   [honolulu] Browser started
+00:59:38 [INFO] [honolulu] 1/3 Hale Ku'ike
+00:59:52 [INFO]   ✓ [honolulu] 1/3 saved
+00:59:55 [INFO] [honolulu] 2/3 Maunalani Nursing & Rehab Center
+01:00:10 [INFO]   ✓ [honolulu] 2/3 saved
+01:00:13 [INFO] [honolulu] 3/3 Hale Ku'ike Bayside
+01:00:26 [INFO]   ✓ [honolulu] 3/3 saved
+01:00:29 [INFO]   [honolulu] Browser closed (done)
+01:00:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/honolulu_phase2_memory_care_units.csv
+01:00:29 [INFO] === houston | assisted_living ===
+01:00:29 [INFO]   [houston] Browser started
+01:00:29 [INFO] [houston] 1/3 The Village of River Oaks
+01:00:44 [INFO]   ✓ [houston] 1/3 saved
+01:00:46 [INFO] [houston] 2/3 Holly Hall Retirement Community
+01:01:01 [INFO]   ✓ [houston] 2/3 saved
+01:01:04 [INFO] [houston] 3/3 The Village of Meyerland
+01:01:17 [INFO]   ✓ [houston] 3/3 saved
+01:01:20 [INFO]   [houston] Browser closed (done)
+01:01:20 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/houston_phase2_assisted_living.csv
+01:01:20 [INFO] === houston | independent_living ===
+01:01:21 [INFO]   [houston] Browser started
+01:01:21 [INFO] [houston] 1/3 Lone Star Living
+01:01:35 [INFO]   ✓ [houston] 1/3 saved
+01:01:37 [INFO] [houston] 2/3 King's Reserve Willowbrook 55+ Active Adult Living
+01:01:52 [INFO]   ✓ [houston] 2/3 saved
+01:01:54 [INFO] [houston] 3/3 Pegasus Preserve of Vintage Park
+01:02:07 [INFO]   ✓ [houston] 3/3 saved
+01:02:10 [INFO]   [houston] Browser closed (done)
+01:02:10 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/houston_phase2_independent_living.csv
+01:02:10 [INFO] === houston | memory_care_units ===
+01:02:11 [INFO]   [houston] Browser started
+01:02:11 [INFO] [houston] 1/3 Cypresswood Memory Care
+01:02:25 [INFO]   ✓ [houston] 1/3 saved
+01:02:28 [INFO] [houston] 2/3 Home Sweet Home
+01:02:41 [INFO]   ✓ [houston] 2/3 saved
+01:02:44 [INFO] [houston] 3/3 The Reserve at Royal Oaks Memory Care
+01:02:58 [INFO]   ✓ [houston] 3/3 saved
+01:03:01 [INFO]   [houston] Browser closed (done)
+01:03:01 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/houston_phase2_memory_care_units.csv
+01:03:01 [INFO] === indianapolis | assisted_living ===
+01:03:02 [INFO]   [indianapolis] Browser started
+01:03:02 [INFO] [indianapolis] 1/3 Sycamore Reserve Senior Living
+01:03:14 [INFO]   ✓ [indianapolis] 1/3 saved
+01:03:16 [INFO] [indianapolis] 2/3 Magnolia Springs Southpointe
+01:03:29 [INFO]   ✓ [indianapolis] 2/3 saved
+01:03:32 [INFO] [indianapolis] 3/3 Traditions at North Willow
+01:03:47 [INFO]   ✓ [indianapolis] 3/3 saved
+01:03:49 [INFO]   [indianapolis] Browser closed (done)
+01:03:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/indianapolis_phase2_assisted_living.csv
+01:03:49 [INFO] === indianapolis | independent_living ===
+01:03:50 [INFO]   [indianapolis] Browser started
+01:03:50 [INFO] [indianapolis] 1/3 Greenwood Village South
+01:04:04 [INFO]   ✓ [indianapolis] 1/3 saved
+01:04:06 [INFO] [indianapolis] 2/3 Summit Place West
+01:04:24 [INFO]   ✓ [indianapolis] 2/3 saved
+01:04:27 [INFO] [indianapolis] 3/3 The Stratford
+01:04:40 [INFO]   ✓ [indianapolis] 3/3 saved
+01:04:42 [INFO]   [indianapolis] Browser closed (done)
+01:04:42 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/indianapolis_phase2_independent_living.csv
+01:04:42 [INFO] === indianapolis | memory_care_units ===
+01:04:43 [INFO]   [indianapolis] Browser started
+01:04:43 [INFO] [indianapolis] 1/3 The Commons on Meridian
+01:04:56 [INFO]   ✓ [indianapolis] 1/3 saved
+01:04:58 [INFO] [indianapolis] 2/3 Grand Brook Memory Care of Zionsville
+01:05:12 [INFO]   ✓ [indianapolis] 2/3 saved
+01:05:14 [INFO] [indianapolis] 3/3 Hickory Hall Memory Care
+01:05:32 [INFO]   ✓ [indianapolis] 3/3 saved
+01:05:35 [INFO]   [indianapolis] Browser closed (done)
+01:05:35 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/indianapolis_phase2_memory_care_units.csv
+01:05:35 [INFO] === jacksonville | assisted_living ===
+01:05:36 [INFO]   [jacksonville] Browser started
+01:05:36 [INFO] [jacksonville] 1/3 The Gables of Jacksonville
+01:05:48 [INFO]   ✓ [jacksonville] 1/3 saved
+01:05:51 [INFO] [jacksonville] 2/3 Sodalis Jacksonville
+01:06:04 [INFO]   ✓ [jacksonville] 2/3 saved
+01:06:07 [INFO] [jacksonville] 3/3 Fountains Rehabilitation at Mill Cove
+01:06:20 [INFO]   ✓ [jacksonville] 3/3 saved
+01:06:23 [INFO]   [jacksonville] Browser closed (done)
+01:06:23 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jacksonville_phase2_assisted_living.csv
+01:06:23 [INFO] === jacksonville | independent_living ===
+01:06:24 [INFO]   [jacksonville] Browser started
+01:06:24 [INFO] [jacksonville] 1/3 Cecil Pines Adult Living Community
+01:06:38 [INFO]   ✓ [jacksonville] 1/3 saved
+01:06:40 [INFO] [jacksonville] 2/3 Starling at Nocatee Independent Living
+01:06:54 [INFO]   ✓ [jacksonville] 2/3 saved
+01:06:56 [INFO] [jacksonville] 3/3 Morris Manor
+01:07:11 [INFO]   ✓ [jacksonville] 3/3 saved
+01:07:14 [INFO]   [jacksonville] Browser closed (done)
+01:07:14 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jacksonville_phase2_independent_living.csv
+01:07:14 [INFO] === jacksonville | memory_care_units ===
+01:07:15 [INFO]   [jacksonville] Browser started
+01:07:15 [INFO] [jacksonville] 1/3 Beach House Senior Living
+01:07:29 [INFO]   ✓ [jacksonville] 1/3 saved
+01:07:31 [INFO] [jacksonville] 2/3 HarborChase of Mandarin
+01:07:44 [INFO]   ✓ [jacksonville] 2/3 saved
+01:07:47 [INFO] [jacksonville] 3/3 Westminster Woods on Julington Creek
+01:08:01 [INFO]   ✓ [jacksonville] 3/3 saved
+01:08:03 [INFO]   [jacksonville] Browser closed (done)
+01:08:04 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jacksonville_phase2_memory_care_units.csv
+01:08:04 [INFO] === jersey_city | assisted_living ===
+01:08:05 [INFO]   [jersey_city] Browser started
+01:08:05 [INFO] [jersey_city] 1/3 Alaris Health at The Atrium
+01:08:18 [INFO]   ✓ [jersey_city] 1/3 saved
+01:08:21 [INFO] [jersey_city] 2/3 Peace Care St Josephs
+01:08:33 [INFO]   ✓ [jersey_city] 2/3 saved
+01:08:35 [INFO] [jersey_city] 3/3 Grandview Terrace Inc
+01:08:51 [INFO]   ✓ [jersey_city] 3/3 saved
+01:08:53 [INFO]   [jersey_city] Browser closed (done)
+01:08:54 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jersey_city_phase2_assisted_living.csv
+01:08:54 [INFO] === jersey_city | independent_living ===
+01:08:55 [INFO]   [jersey_city] Browser started
+01:08:55 [INFO] [jersey_city] 1/3 Berry Gardens
+01:09:12 [INFO]   ✓ [jersey_city] 1/3 saved
+01:09:15 [INFO] [jersey_city] 2/3 Jones Hall Associates
+01:09:37 [INFO]   ✓ [jersey_city] 2/3 saved
+01:09:39 [INFO] [jersey_city] 3/3 Assisted Living Locators New York City
+01:09:55 [INFO]   ✓ [jersey_city] 3/3 saved
+01:09:58 [INFO]   [jersey_city] Browser closed (done)
+01:09:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jersey_city_phase2_independent_living.csv
+01:09:58 [INFO] === jersey_city | memory_care_units ===
+01:09:59 [INFO]   [jersey_city] Browser started
+01:09:59 [INFO] [jersey_city] 1/2 The Kentshire
+01:10:13 [INFO]   ✓ [jersey_city] 1/2 saved
+01:10:16 [INFO] [jersey_city] 2/2 Optima Care Fountains
+01:10:30 [INFO]   ✓ [jersey_city] 2/2 saved
+01:10:33 [INFO]   [jersey_city] Browser closed (done)
+01:10:33 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/jersey_city_phase2_memory_care_units.csv
+01:10:33 [INFO] === kansas_city | assisted_living ===
+01:10:34 [INFO]   [kansas_city] Browser started
+01:10:34 [INFO] [kansas_city] 1/3 SummitView Terrace Assisted Living
+01:10:46 [INFO]   ✓ [kansas_city] 1/3 saved
+01:10:49 [INFO] [kansas_city] 2/3 Tiffany Springs Senior Living
+01:11:04 [INFO]   ✓ [kansas_city] 2/3 saved
+01:11:06 [INFO] [kansas_city] 3/3 The Gardens at Barry Road Assisted Living and Memory Care
+01:11:21 [INFO]   ✓ [kansas_city] 3/3 saved
+01:11:23 [INFO]   [kansas_city] Browser closed (done)
+01:11:23 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/kansas_city_phase2_assisted_living.csv
+01:11:23 [INFO] === kansas_city | independent_living ===
+01:11:25 [INFO]   [kansas_city] Browser started
+01:11:25 [INFO] [kansas_city] 1/3 Riverstone Retirement Community
+01:11:37 [INFO]   ✓ [kansas_city] 1/3 saved
+01:11:40 [INFO] [kansas_city] 2/3 Liberty at Shoal Creek
+01:11:54 [INFO]   ✓ [kansas_city] 2/3 saved
+01:11:56 [INFO] [kansas_city] 3/3 Elliott Place Senior Living
+01:12:09 [INFO]   ✓ [kansas_city] 3/3 saved
+01:12:11 [INFO]   [kansas_city] Browser closed (done)
+01:12:11 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/kansas_city_phase2_independent_living.csv
+01:12:11 [INFO] === kansas_city | memory_care_units ===
+01:12:12 [INFO]   [kansas_city] Browser started
+01:12:12 [INFO] [kansas_city] 1/3 Colonial Oaks Senior Living at Leawood
+01:12:26 [INFO]   ✓ [kansas_city] 1/3 saved
+01:12:28 [INFO] [kansas_city] 2/3 Jackson Creek Memory Care
+01:12:39 [INFO]   ✓ [kansas_city] 2/3 saved
+01:12:42 [INFO] [kansas_city] 3/3 Silverado Lee's Summit Memory Care Community
+01:13:01 [INFO]   ✓ [kansas_city] 3/3 saved
+01:13:03 [INFO]   [kansas_city] Browser closed (done)
+01:13:03 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/kansas_city_phase2_memory_care_units.csv
+01:13:03 [INFO] === laredo | assisted_living ===
+01:13:04 [INFO]   [laredo] Browser started
+01:13:04 [INFO] [laredo] 1/3 Las Alturas Nursing & Transitional Care
+01:13:16 [INFO]   ✓ [laredo] 1/3 saved
+01:13:18 [INFO] [laredo] 2/3 Laredo Nursing and Rehabilitation Center
+01:13:32 [INFO]   ✓ [laredo] 2/3 saved
+01:13:35 [INFO] [laredo] 3/3 Laredo West Nursing and Rehabilitation Center
+01:13:49 [INFO]   ✓ [laredo] 3/3 saved
+01:13:51 [INFO]   [laredo] Browser closed (done)
+01:13:51 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/laredo_phase2_assisted_living.csv
+01:13:51 [INFO] === laredo | independent_living ===
+01:13:53 [INFO]   [laredo] Browser started
+01:13:53 [INFO] [laredo] 1/3 VAIL - Valley Association for Independent Living
+01:14:02 [INFO]   ✓ [laredo] 1/3 saved
+01:14:05 [INFO] [laredo] 2/3 NSCL Inc
+01:14:22 [INFO]   ✓ [laredo] 2/3 saved
+01:14:24 [INFO] [laredo] 3/3 Lulac Haven Inc
+01:14:37 [INFO]   ✓ [laredo] 3/3 saved
+01:14:40 [INFO]   [laredo] Browser closed (done)
+01:14:40 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/laredo_phase2_independent_living.csv
+01:14:40 [INFO] === laredo | memory_care_units ===
+01:14:41 [INFO]   [laredo] Browser started
+01:14:41 [INFO] [laredo] 1/3 La Misericordia Home Care Service
+01:14:56 [INFO]   ✓ [laredo] 1/3 saved
+01:14:58 [INFO] [laredo] 2/3 Cornerstone Caregiving
+01:15:12 [INFO]   ✓ [laredo] 2/3 saved
+01:15:15 [INFO] [laredo] 3/3 Las Flores Adult Day Care
+01:15:27 [INFO]   ✓ [laredo] 3/3 saved
+01:15:30 [INFO]   [laredo] Browser closed (done)
+01:15:30 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/laredo_phase2_memory_care_units.csv
+01:15:30 [INFO] === las_vegas | assisted_living ===
+01:15:31 [INFO]   [las_vegas] Browser started
+01:15:31 [INFO] [las_vegas] 1/3 Legacy House of Centennial Hills
+01:15:43 [INFO]   ✓ [las_vegas] 1/3 saved
+01:15:45 [INFO] [las_vegas] 2/3 Aegis Living Las Vegas
+01:15:59 [INFO]   ✓ [las_vegas] 2/3 saved
+01:16:01 [INFO] [las_vegas] 3/3 Acacia Springs
+01:16:15 [INFO]   ✓ [las_vegas] 3/3 saved
+01:16:18 [INFO]   [las_vegas] Browser closed (done)
+01:16:18 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/las_vegas_phase2_assisted_living.csv
+01:16:18 [INFO] === las_vegas | independent_living ===
+01:16:18 [INFO]   [las_vegas] Browser started
+01:16:18 [INFO] [las_vegas] 1/3 Merrill Gardens at Green Valley Ranch
+01:16:32 [INFO]   ✓ [las_vegas] 1/3 saved
+01:16:34 [INFO] [las_vegas] 2/3 Southern Nevada Centers for Independent Living (SNCIL)
+01:16:50 [INFO]   ✓ [las_vegas] 2/3 saved
+01:16:53 [INFO] [las_vegas] 3/3 Liora Henderson
+01:17:05 [INFO]   ✓ [las_vegas] 3/3 saved
+01:17:08 [INFO]   [las_vegas] Browser closed (done)
+01:17:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/las_vegas_phase2_independent_living.csv
+01:17:08 [INFO] === las_vegas | memory_care_units ===
+01:17:09 [INFO]   [las_vegas] Browser started
+01:17:09 [INFO] [las_vegas] 1/3 Tender Loving Memory Care & Assisted Living Home
+01:17:22 [INFO]   ✓ [las_vegas] 1/3 saved
+01:17:25 [INFO] [las_vegas] 2/3 Villa Court Assisted Living
+01:17:38 [INFO]   ✓ [las_vegas] 2/3 saved
+01:17:41 [INFO] [las_vegas] 3/3 The Lakes Senior Living
+01:17:55 [INFO]   ✓ [las_vegas] 3/3 saved
+01:17:58 [INFO]   [las_vegas] Browser closed (done)
+01:17:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/las_vegas_phase2_memory_care_units.csv
+01:17:58 [INFO] === lexington | assisted_living ===
+01:17:59 [INFO]   [lexington] Browser started
+01:17:59 [INFO] [lexington] 1/3 Magnolia Springs Lexington
+01:18:12 [INFO]   ✓ [lexington] 1/3 saved
+01:18:15 [INFO] [lexington] 2/3 Richmond Place
+01:18:30 [INFO]   ✓ [lexington] 2/3 saved
+01:18:32 [INFO] [lexington] 3/3 Morning Pointe of Lexington
+01:18:47 [INFO]   ✓ [lexington] 3/3 saved
+01:18:50 [INFO]   [lexington] Browser closed (done)
+01:18:50 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lexington_phase2_assisted_living.csv
+01:18:50 [INFO] === lexington | independent_living ===
+01:18:51 [INFO]   [lexington] Browser started
+01:18:51 [INFO] [lexington] 1/3 Victory Woods (Seniors 62+)
+01:19:03 [INFO]   ✓ [lexington] 1/3 saved
+01:19:06 [INFO] [lexington] 2/3 Lexington House Apartments
+01:19:20 [INFO]   ✓ [lexington] 2/3 saved
+01:19:23 [INFO] [lexington] 3/3 Borden Health Center
+01:19:36 [INFO]   ✓ [lexington] 3/3 saved
+01:19:39 [INFO]   [lexington] Browser closed (done)
+01:19:39 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lexington_phase2_independent_living.csv
+01:19:39 [INFO] === lexington | memory_care_units ===
+01:19:40 [INFO]   [lexington] Browser started
+01:19:40 [INFO] [lexington] 1/2 The Willows at Hamburg
+01:19:51 [INFO]   ✓ [lexington] 1/2 saved
+01:19:54 [INFO] [lexington] 2/2 Heritage Place Memory Care
+01:20:06 [INFO]   ✓ [lexington] 2/2 saved
+01:20:08 [INFO]   [lexington] Browser closed (done)
+01:20:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lexington_phase2_memory_care_units.csv
+01:20:08 [INFO] === lincoln | assisted_living ===
+01:20:09 [INFO]   [lincoln] Browser started
+01:20:09 [INFO] [lincoln] 1/3 The Lexington Assisted Living Center
+01:20:24 [INFO]   ✓ [lincoln] 1/3 saved
+01:20:26 [INFO] [lincoln] 2/3 Salt Creek Senior Living
+01:20:40 [INFO]   ✓ [lincoln] 2/3 saved
+01:20:43 [INFO] [lincoln] 3/3 Gateway Vista
+01:20:59 [INFO]   ✓ [lincoln] 3/3 saved
+01:21:01 [INFO]   [lincoln] Browser closed (done)
+01:21:01 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lincoln_phase2_assisted_living.csv
+01:21:01 [INFO] === lincoln | independent_living ===
+01:21:02 [INFO]   [lincoln] Browser started
+01:21:02 [INFO] [lincoln] 1/3 Inspirit Senior Living
+01:21:13 [INFO]   ✓ [lincoln] 1/3 saved
+01:21:16 [INFO] [lincoln] 2/3 The Lodge at Willow Ponds
+01:21:27 [INFO]   ✓ [lincoln] 2/3 saved
+01:21:29 [INFO] [lincoln] 3/3 The Commons in Lincoln
+01:21:41 [INFO]   ✓ [lincoln] 3/3 saved
+01:21:44 [INFO]   [lincoln] Browser closed (done)
+01:21:44 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lincoln_phase2_independent_living.csv
+01:21:44 [INFO] === lincoln | memory_care_units ===
+01:21:45 [INFO]   [lincoln] Browser started
+01:21:45 [INFO] [lincoln] 1/3 The Preserve at Cedarwood
+01:21:56 [INFO]   ✓ [lincoln] 1/3 saved
+01:21:58 [INFO] [lincoln] 2/3 Trillium Place by Tandem Living
+01:22:11 [INFO]   ✓ [lincoln] 2/3 saved
+01:22:14 [INFO] [lincoln] 3/3 Legend of Lititz
+01:22:29 [INFO]   ✓ [lincoln] 3/3 saved
+01:22:31 [INFO]   [lincoln] Browser closed (done)
+01:22:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/lincoln_phase2_memory_care_units.csv
+01:22:31 [INFO] === long_beach | assisted_living ===
+01:22:32 [INFO]   [long_beach] Browser started
+01:22:32 [INFO] [long_beach] 1/3 Regency Palms Long Beach
+01:22:47 [INFO]   ✓ [long_beach] 1/3 saved
+01:22:50 [INFO] [long_beach] 2/3 Palmcrest Grand Assisted Living
+01:23:03 [INFO]   ✓ [long_beach] 2/3 saved
+01:23:06 [INFO] [long_beach] 3/3 Regent Villa
+01:23:19 [INFO]   ✓ [long_beach] 3/3 saved
+01:23:22 [INFO]   [long_beach] Browser closed (done)
+01:23:22 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/long_beach_phase2_assisted_living.csv
+01:23:22 [INFO] === long_beach | independent_living ===
+01:23:23 [INFO]   [long_beach] Browser started
+01:23:23 [INFO] [long_beach] 1/3 Brethren Manor
+01:23:37 [INFO]   ✓ [long_beach] 1/3 saved
+01:23:39 [INFO] [long_beach] 2/3 Del Amo Gardens
+01:23:56 [INFO]   ✓ [long_beach] 2/3 saved
+01:23:59 [INFO] [long_beach] 3/3 Leisure World Seal Beach
+01:24:11 [INFO]   ✓ [long_beach] 3/3 saved
+01:24:14 [INFO]   [long_beach] Browser closed (done)
+01:24:14 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/long_beach_phase2_independent_living.csv
+01:24:14 [INFO] === long_beach | memory_care_units ===
+01:24:15 [INFO]   [long_beach] Browser started
+01:24:15 [INFO] [long_beach] 1/3 Ivy Park at Seal Beach
+01:24:29 [INFO]   ✓ [long_beach] 1/3 saved
+01:24:32 [INFO] [long_beach] 2/3 Grace Blossom Care
+01:24:43 [INFO]   ✓ [long_beach] 2/3 saved
+01:24:46 [INFO] [long_beach] 3/3 Fidler Cottage
+01:25:01 [INFO]   ✓ [long_beach] 3/3 saved
+01:25:03 [INFO]   [long_beach] Browser closed (done)
+01:25:03 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/long_beach_phase2_memory_care_units.csv
+01:25:03 [INFO] === los_angeles | assisted_living ===
+01:25:04 [INFO]   [los_angeles] Browser started
+01:25:04 [INFO] [los_angeles] 1/3 Sakura Gardens of Los Angeles
+01:25:19 [INFO]   ✓ [los_angeles] 1/3 saved
+01:25:22 [INFO] [los_angeles] 2/3 Hollywood Hills Senior Living
+01:25:37 [INFO]   ✓ [los_angeles] 2/3 saved
+01:25:40 [INFO] [los_angeles] 3/3 Melrose Gardens
+01:25:56 [INFO]   ✓ [los_angeles] 3/3 saved
+01:25:58 [INFO]   [los_angeles] Browser closed (done)
+01:25:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/los_angeles_phase2_assisted_living.csv
+01:25:58 [INFO] === los_angeles | independent_living ===
+01:25:59 [INFO]   [los_angeles] Browser started
+01:25:59 [INFO] [los_angeles] 1/3 Scholl Canyon Estates Gracious Retirement Living
+01:26:13 [INFO]   ✓ [los_angeles] 1/3 saved
+01:26:16 [INFO] [los_angeles] 2/3 Palm Court
+01:26:31 [INFO]   ✓ [los_angeles] 2/3 saved
+01:26:33 [INFO] [los_angeles] 3/3 The Village at Sherman Oaks
+01:26:48 [INFO]   ✓ [los_angeles] 3/3 saved
+01:26:51 [INFO]   [los_angeles] Browser closed (done)
+01:26:51 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/los_angeles_phase2_independent_living.csv
+01:26:51 [INFO] === los_angeles | memory_care_units ===
+01:26:52 [INFO]   [los_angeles] Browser started
+01:26:52 [INFO] [los_angeles] 1/3 Argento Westchester
+01:27:06 [INFO]   ✓ [los_angeles] 1/3 saved
+01:27:09 [INFO] [los_angeles] 2/3 Ivy Park at Playa Vista
+01:27:24 [INFO]   ✓ [los_angeles] 2/3 saved
+01:27:27 [INFO] [los_angeles] 3/3 Aegis Living Granada Hills
+01:27:39 [INFO]   ✓ [los_angeles] 3/3 saved
+01:27:42 [INFO]   [los_angeles] Browser closed (done)
+01:27:42 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/los_angeles_phase2_memory_care_units.csv
+01:27:42 [INFO] === louisville | assisted_living ===
+01:27:43 [INFO]   [louisville] Browser started
+01:27:43 [INFO] [louisville] 1/3 Magnolia Springs Louisville
+01:27:56 [INFO]   ✓ [louisville] 1/3 saved
+01:27:59 [INFO] [louisville] 2/3 Magnolia Springs East Louisville
+01:28:11 [INFO]   ✓ [louisville] 2/3 saved
+01:28:13 [INFO] [louisville] 3/3 Traditions at Beaumont
+01:28:32 [INFO]   ✓ [louisville] 3/3 saved
+01:28:35 [INFO]   [louisville] Browser closed (done)
+01:28:35 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/louisville_phase2_assisted_living.csv
+01:28:35 [INFO] === louisville | independent_living ===
+01:28:36 [INFO]   [louisville] Browser started
+01:28:36 [INFO] [louisville] 1/3 Glenmary Grove Senior Apartments
+01:28:49 [INFO]   ✓ [louisville] 1/3 saved
+01:28:52 [INFO] [louisville] 2/3 Arcadia Communities
+01:29:08 [INFO]   ✓ [louisville] 2/3 saved
+01:29:11 [INFO] [louisville] 3/3 Meadow Active Lifestyle Community
+01:29:26 [INFO]   ✓ [louisville] 3/3 saved
+01:29:29 [INFO]   [louisville] Browser closed (done)
+01:29:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/louisville_phase2_independent_living.csv
+01:29:29 [INFO] === louisville | memory_care_units ===
+01:29:30 [INFO]   [louisville] Browser started
+01:29:30 [INFO] [louisville] 1/3 The Lantern at Morning Pointe Alzheimer’s Center of Excellence, Louisville
+01:29:43 [INFO]   ✓ [louisville] 1/3 saved
+01:29:45 [INFO] [louisville] 2/3 Harmony at Tucker Station
+01:29:57 [INFO]   ✓ [louisville] 2/3 saved
+01:30:00 [INFO] [louisville] 3/3 Heartsong Memory Care
+01:30:12 [INFO]   ✓ [louisville] 3/3 saved
+01:30:15 [INFO]   [louisville] Browser closed (done)
+01:30:15 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/louisville_phase2_memory_care_units.csv
+01:30:15 [INFO] === memphis | assisted_living ===
+01:30:16 [INFO]   [memphis] Browser started
+01:30:16 [INFO] [memphis] 1/3 Belmont Village Senior Living Memphis
+01:30:30 [INFO]   ✓ [memphis] 1/3 saved
+01:30:33 [INFO] [memphis] 2/3 Opus East Memphis
+01:30:52 [INFO]   ✓ [memphis] 2/3 saved
+01:30:55 [INFO] [memphis] 3/3 South Breeze Senior Living
+01:31:10 [INFO]   ✓ [memphis] 3/3 saved
+01:31:13 [INFO]   [memphis] Browser closed (done)
+01:31:13 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/memphis_phase2_assisted_living.csv
+01:31:13 [INFO] === memphis | independent_living ===
+01:31:14 [INFO]   [memphis] Browser started
+01:31:14 [INFO] [memphis] 1/3 The Terrace
+01:31:26 [INFO]   ✓ [memphis] 1/3 saved
+01:31:29 [INFO] [memphis] 2/3 Wesley Living
+01:31:46 [INFO]   ✓ [memphis] 2/3 saved
+01:31:48 [INFO] [memphis] 3/3 Plough Towers
+01:32:06 [INFO]   ✓ [memphis] 3/3 saved
+01:32:08 [INFO]   [memphis] Browser closed (done)
+01:32:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/memphis_phase2_independent_living.csv
+01:32:08 [INFO] === memphis | memory_care_units ===
+01:32:09 [INFO]   [memphis] Browser started
+01:32:09 [INFO] [memphis] 1/3 Apple Grove Alzheimer's and Dementia Residence
+01:32:24 [INFO]   ✓ [memphis] 1/3 saved
+01:32:26 [INFO] [memphis] 2/3 Shelby Gardens Senior Living
+01:32:40 [INFO]   ✓ [memphis] 2/3 saved
+01:32:42 [INFO] [memphis] 3/3 Alzheimer’s Day Services of Memphis (Raleigh)
+01:33:00 [INFO]   ✓ [memphis] 3/3 saved
+01:33:02 [INFO]   [memphis] Browser closed (done)
+01:33:03 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/memphis_phase2_memory_care_units.csv
+01:33:03 [INFO] === mesa | assisted_living ===
+01:33:03 [INFO]   [mesa] Browser started
+01:33:03 [INFO] [mesa] 1/3 The Villages At Red Mountain
+01:33:16 [INFO]   ✓ [mesa] 1/3 saved
+01:33:19 [INFO] [mesa] 2/3 Legacy House of Mesa
+01:33:33 [INFO]   ✓ [mesa] 2/3 saved
+01:33:36 [INFO] [mesa] 3/3 Sky Vista
+01:33:54 [INFO]   ✓ [mesa] 3/3 saved
+01:33:57 [INFO]   [mesa] Browser closed (done)
+01:33:57 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/mesa_phase2_assisted_living.csv
+01:33:57 [INFO] === mesa | independent_living ===
+01:33:58 [INFO]   [mesa] Browser started
+01:33:58 [INFO] [mesa] 1/3 Solstice of Mesa 55+ Apartments
+01:34:11 [INFO]   ✓ [mesa] 1/3 saved
+01:34:13 [INFO] [mesa] 2/3 Sage Mesa
+01:34:27 [INFO]   ✓ [mesa] 2/3 saved
+01:34:30 [INFO] [mesa] 3/3 Silver Spur Village 55+ Community Near Phoenix
+01:34:44 [INFO]   ✓ [mesa] 3/3 saved
+01:34:46 [INFO]   [mesa] Browser closed (done)
+01:34:46 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/mesa_phase2_independent_living.csv
+01:34:46 [INFO] === mesa | memory_care_units ===
+01:34:47 [INFO]   [mesa] Browser started
+01:34:47 [INFO] [mesa] 1/3 Class Act Assisted Living and Memory Care
+01:35:02 [INFO]   ✓ [mesa] 1/3 saved
+01:35:04 [INFO] [mesa] 2/3 The Summit at Sunland Springs Assisted Living
+01:35:24 [INFO]   ✓ [mesa] 2/3 saved
+01:35:26 [INFO] [mesa] 3/3 Emerald Glen Assisted Living
+01:35:38 [INFO]   ✓ [mesa] 3/3 saved
+01:35:41 [INFO]   [mesa] Browser closed (done)
+01:35:41 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/mesa_phase2_memory_care_units.csv
+01:35:41 [INFO] === milwaukee | assisted_living ===
+01:35:42 [INFO]   [milwaukee] Browser started
+01:35:42 [INFO] [milwaukee] 1/3 Wilson Commons - Assisted Living
+01:35:55 [INFO]   ✓ [milwaukee] 1/3 saved
+01:35:58 [INFO] [milwaukee] 2/3 Eastcastle Place
+01:36:10 [INFO]   ✓ [milwaukee] 2/3 saved
+01:36:13 [INFO] [milwaukee] 3/3 Villa St. Francis
+01:36:28 [INFO]   ✓ [milwaukee] 3/3 saved
+01:36:31 [INFO]   [milwaukee] Browser closed (done)
+01:36:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/milwaukee_phase2_assisted_living.csv
+01:36:31 [INFO] === milwaukee | independent_living ===
+01:36:32 [INFO]   [milwaukee] Browser started
+01:36:32 [INFO] [milwaukee] 1/3 Granville Heights Senior Apartments
+01:36:44 [INFO]   ✓ [milwaukee] 1/3 saved
+01:36:47 [INFO] [milwaukee] 2/3 Hedwig House
+01:37:00 [INFO]   ✓ [milwaukee] 2/3 saved
+01:37:02 [INFO] [milwaukee] 3/3 Village at the Falls
+01:37:16 [INFO]   ✓ [milwaukee] 3/3 saved
+01:37:19 [INFO]   [milwaukee] Browser closed (done)
+01:37:19 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/milwaukee_phase2_independent_living.csv
+01:37:19 [INFO] === milwaukee | memory_care_units ===
+01:37:20 [INFO]   [milwaukee] Browser started
+01:37:20 [INFO] [milwaukee] 1/3 Silverado North Shore Memory Care Community
+01:37:32 [INFO]   ✓ [milwaukee] 1/3 saved
+01:37:34 [INFO] [milwaukee] 2/3 Discovery Commons North Shore
+01:37:49 [INFO]   ✓ [milwaukee] 2/3 saved
+01:37:51 [INFO] [milwaukee] 3/3 Home Sweet Home Assisted Living LLC
+01:38:04 [INFO]   ✓ [milwaukee] 3/3 saved
+01:38:07 [INFO]   [milwaukee] Browser closed (done)
+01:38:07 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/milwaukee_phase2_memory_care_units.csv
+01:38:07 [INFO] === minneapolis | assisted_living ===
+01:38:08 [INFO]   [minneapolis] Browser started
+01:38:08 [INFO] [minneapolis] 1/3 The Pillars of Prospect Park
+01:38:21 [INFO]   ✓ [minneapolis] 1/3 saved
+01:38:24 [INFO] [minneapolis] 2/3 Minnehaha Senior Living
+01:38:37 [INFO]   ✓ [minneapolis] 2/3 saved
+01:38:40 [INFO] [minneapolis] 3/3 The Waters on 50th
+01:38:55 [INFO]   ✓ [minneapolis] 3/3 saved
+01:38:57 [INFO]   [minneapolis] Browser closed (done)
+01:38:57 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/minneapolis_phase2_assisted_living.csv
+01:38:57 [INFO] === minneapolis | independent_living ===
+01:38:58 [INFO]   [minneapolis] Browser started
+01:38:58 [INFO] [minneapolis] 1/3 Becketwood Cooperative
+01:39:12 [INFO]   ✓ [minneapolis] 1/3 saved
+01:39:15 [INFO] [minneapolis] 2/3 Hayden Grove Senior Living - St. Anthony
+01:39:34 [INFO]   ✓ [minneapolis] 2/3 saved
+01:39:36 [INFO] [minneapolis] 3/3 EagleCrest
+01:39:51 [INFO]   ✓ [minneapolis] 3/3 saved
+01:39:54 [INFO]   [minneapolis] Browser closed (done)
+01:39:54 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/minneapolis_phase2_independent_living.csv
+01:39:54 [INFO] === minneapolis | memory_care_units ===
+01:39:55 [INFO]   [minneapolis] Browser started
+01:39:55 [INFO] [minneapolis] 1/3 White Pine Fridley Advanced Assisted Living and Memory Care
+01:40:09 [INFO]   ✓ [minneapolis] 1/3 saved
+01:40:11 [INFO] [minneapolis] 2/3 New Perspective Golden Valley
+01:40:24 [INFO]   ✓ [minneapolis] 2/3 saved
+01:40:27 [INFO] [minneapolis] 3/3 Wealshire of Bloomington
+01:40:40 [INFO]   ✓ [minneapolis] 3/3 saved
+01:40:43 [INFO]   [minneapolis] Browser closed (done)
+01:40:43 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/minneapolis_phase2_memory_care_units.csv
+01:40:43 [INFO] === nashville | assisted_living ===
+01:40:44 [INFO]   [nashville] Browser started
+01:40:44 [INFO] [nashville] 1/3 Belmont Village Senior Living Green Hills
+01:40:59 [INFO]   ✓ [nashville] 1/3 saved
+01:41:01 [INFO] [nashville] 2/3 Mary Queen of Angels Assisted
+01:41:14 [INFO]   ✓ [nashville] 2/3 saved
+01:41:17 [INFO] [nashville] 3/3 The Lodge at Natchez Trace
+01:41:31 [INFO]   ✓ [nashville] 3/3 saved
+01:41:33 [INFO]   [nashville] Browser closed (done)
+01:41:33 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/nashville_phase2_assisted_living.csv
+01:41:33 [INFO] === nashville | independent_living ===
+01:41:35 [INFO]   [nashville] Browser started
+01:41:35 [INFO] [nashville] 1/3 Windlands South
+01:41:46 [INFO]   ✓ [nashville] 1/3 saved
+01:41:49 [INFO] [nashville] 2/3 Rutland Place Senior Living
+01:42:02 [INFO]   ✓ [nashville] 2/3 saved
+01:42:05 [INFO] [nashville] 3/3 Beò of Franklin
+01:42:17 [INFO]   ✓ [nashville] 3/3 saved
+01:42:20 [INFO]   [nashville] Browser closed (done)
+01:42:20 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/nashville_phase2_independent_living.csv
+01:42:20 [INFO] === nashville | memory_care_units ===
+01:42:21 [INFO]   [nashville] Browser started
+01:42:21 [INFO] [nashville] 1/3 Providence Place of Mt. Juliet & The Gardens Memory Care
+01:42:35 [INFO]   ✓ [nashville] 1/3 saved
+01:42:37 [INFO] [nashville] 2/3 Hickory Gardens Assisted Living
+01:42:51 [INFO]   ✓ [nashville] 2/3 saved
+01:42:53 [INFO] [nashville] 3/3 Morning Pointe of Brentwood Assisted Living
+01:43:06 [INFO]   ✓ [nashville] 3/3 saved
+01:43:09 [INFO]   [nashville] Browser closed (done)
+01:43:09 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/nashville_phase2_memory_care_units.csv
+01:43:09 [INFO] === new_orleans | assisted_living ===
+01:43:10 [INFO]   [new_orleans] Browser started
+01:43:10 [INFO] [new_orleans] 1/3 The Carrollton New Orleans
+01:43:24 [INFO]   ✓ [new_orleans] 1/3 saved
+01:43:26 [INFO] [new_orleans] 2/3 SummerHouse Vista Shores
+01:43:40 [INFO]   ✓ [new_orleans] 2/3 saved
+01:43:42 [INFO] [new_orleans] 3/3 The Suites at Algiers Point Assisted Living & Memory Care
+01:43:57 [INFO]   ✓ [new_orleans] 3/3 saved
+01:44:00 [INFO]   [new_orleans] Browser closed (done)
+01:44:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_orleans_phase2_assisted_living.csv
+01:44:00 [INFO] === new_orleans | independent_living ===
+01:44:00 [INFO]   [new_orleans] Browser started
+01:44:00 [INFO] [new_orleans] 1/3 St. John Berchmans' Manor
+01:44:13 [INFO]   ✓ [new_orleans] 1/3 saved
+01:44:15 [INFO] [new_orleans] 2/3 Copeland Tower Living
+01:44:34 [INFO]   ✓ [new_orleans] 2/3 saved
+01:44:37 [INFO] [new_orleans] 3/3 Metairie Manor
+01:44:51 [INFO]   ✓ [new_orleans] 3/3 saved
+01:44:53 [INFO]   [new_orleans] Browser closed (done)
+01:44:53 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_orleans_phase2_independent_living.csv
+01:44:53 [INFO] === new_orleans | memory_care_units ===
+01:44:54 [INFO]   [new_orleans] Browser started
+01:44:54 [INFO] [new_orleans] 1/3 Tranquil Living
+01:45:11 [INFO]   ✓ [new_orleans] 1/3 saved
+01:45:14 [INFO] [new_orleans] 2/3 Ferncrest Manor
+01:45:31 [INFO]   ✓ [new_orleans] 2/3 saved
+01:45:34 [INFO] [new_orleans] 3/3 Schonberg Care
+01:45:46 [INFO]   ✓ [new_orleans] 3/3 saved
+01:45:49 [INFO]   [new_orleans] Browser closed (done)
+01:45:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_orleans_phase2_memory_care_units.csv
+01:45:49 [INFO] === new_york | assisted_living ===
+01:45:50 [INFO]   [new_york] Browser started
+01:45:50 [INFO] [new_york] 1/3 The Bristal Assisted Living at York Avenue
+01:46:03 [INFO]   ✓ [new_york] 1/3 saved
+01:46:06 [INFO] [new_york] 2/3 Coterie Hudson Yards
+01:46:22 [INFO]   ✓ [new_york] 2/3 saved
+01:46:24 [INFO] [new_york] 3/3 Carnegie East House
+01:46:37 [INFO]   ✓ [new_york] 3/3 saved
+01:46:40 [INFO]   [new_york] Browser closed (done)
+01:46:40 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_york_phase2_assisted_living.csv
+01:46:40 [INFO] === new_york | independent_living ===
+01:46:41 [INFO]   [new_york] Browser started
+01:46:41 [INFO] [new_york] 1/3 Sutton Gardens
+01:46:55 [INFO]   ✓ [new_york] 1/3 saved
+01:46:58 [INFO] [new_york] 2/3 Flushing House
+01:47:12 [INFO]   ✓ [new_york] 2/3 saved
+01:47:14 [INFO] [new_york] 3/3 Bronx Independent Living Services
+01:47:29 [INFO]   ✓ [new_york] 3/3 saved
+01:47:32 [INFO]   [new_york] Browser closed (done)
+01:47:32 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_york_phase2_independent_living.csv
+01:47:32 [INFO] === new_york | memory_care_units ===
+01:47:33 [INFO]   [new_york] Browser started
+01:47:33 [INFO] [new_york] 1/3 New York Memory Center
+01:47:48 [INFO]   ✓ [new_york] 1/3 saved
+01:47:51 [INFO] [new_york] 2/3 Inspired Memory Care, Inc.
+01:48:09 [INFO]   ✓ [new_york] 2/3 saved
+01:48:12 [INFO] [new_york] 3/3 Elm York Assisted Living
+01:48:26 [INFO]   ✓ [new_york] 3/3 saved
+01:48:29 [INFO]   [new_york] Browser closed (done)
+01:48:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/new_york_phase2_memory_care_units.csv
+01:48:29 [INFO] === newark | assisted_living ===
+01:48:30 [INFO]   [newark] Browser started
+01:48:30 [INFO] [newark] 1/3 Juniper Village at Newark
+01:48:37 [INFO]   ✓ [newark] 1/3 saved
+01:48:40 [INFO] [newark] 2/3 Terrace at Newark Assisted Living Community
+01:48:57 [INFO]   ✓ [newark] 2/3 saved
+01:49:00 [INFO] [newark] 3/3 New Community Extended Care
+01:49:15 [INFO]   ✓ [newark] 3/3 saved
+01:49:18 [INFO]   [newark] Browser closed (done)
+01:49:18 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/newark_phase2_assisted_living.csv
+01:49:18 [INFO] === newark | independent_living ===
+01:49:19 [INFO]   [newark] Browser started
+01:49:19 [INFO] [newark] 1/3 Marydale Retirement Village
+01:49:26 [INFO]   ✓ [newark] 1/3 saved
+01:49:29 [INFO] [newark] 2/3 St Mary's Villa
+01:49:42 [INFO]   ✓ [newark] 2/3 saved
+01:49:44 [INFO] [newark] 3/3 LaFayette Senior Living Center
+01:49:58 [INFO]   ✓ [newark] 3/3 saved
+01:50:01 [INFO]   [newark] Browser closed (done)
+01:50:01 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/newark_phase2_independent_living.csv
+01:50:01 [INFO] === newark | memory_care_units ===
+01:50:02 [INFO]   [newark] Browser started
+01:50:02 [INFO] [newark] 1/3 SharonBrooke Assisted Living
+01:50:13 [INFO]   ✓ [newark] 1/3 saved
+01:50:15 [INFO] [newark] 2/3 The Courtyard at Newark
+01:50:29 [INFO]   ✓ [newark] 2/3 saved
+01:50:31 [INFO] [newark] 3/3 Hearth Brook
+01:50:46 [INFO]   ✓ [newark] 3/3 saved
+01:50:48 [INFO]   [newark] Browser closed (done)
+01:50:48 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/newark_phase2_memory_care_units.csv
+01:50:48 [INFO] === norfolk | assisted_living ===
+01:50:50 [INFO]   [norfolk] Browser started
+01:50:50 [INFO] [norfolk] 1/3 Karolwood Gardens Norfolk Senior Living Center
+01:51:02 [INFO]   ✓ [norfolk] 1/3 saved
+01:51:05 [INFO] [norfolk] 2/3 Province Place of DePaul
+01:51:22 [INFO]   ✓ [norfolk] 2/3 saved
+01:51:25 [INFO] [norfolk] 3/3 Autumn Care of Norfolk
+01:51:38 [INFO]   ✓ [norfolk] 3/3 saved
+01:51:41 [INFO]   [norfolk] Browser closed (done)
+01:51:41 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/norfolk_phase2_assisted_living.csv
+01:51:41 [INFO] === norfolk | independent_living ===
+01:51:41 [INFO]   [norfolk] Browser started
+01:51:41 [INFO] [norfolk] 1/3 The Chamberlin
+01:51:56 [INFO]   ✓ [norfolk] 1/3 saved
+01:51:58 [INFO] [norfolk] 2/3 Waterside Health & Rehab Center
+01:52:13 [INFO]   ✓ [norfolk] 2/3 saved
+01:52:15 [INFO] [norfolk] 3/3 Fenner Gardens Apartment
+01:52:29 [INFO]   ✓ [norfolk] 3/3 saved
+01:52:31 [INFO]   [norfolk] Browser closed (done)
+01:52:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/norfolk_phase2_independent_living.csv
+01:52:31 [INFO] === norfolk | memory_care_units ===
+01:52:33 [INFO]   [norfolk] Browser started
+01:52:33 [INFO] [norfolk] 1/2 Harmony at Harbour View
+01:52:44 [INFO]   ✓ [norfolk] 1/2 saved
+01:52:47 [INFO] [norfolk] 2/2 Oak Grove Health and Rehab
+01:53:00 [INFO]   ✓ [norfolk] 2/2 saved
+01:53:03 [INFO]   [norfolk] Browser closed (done)
+01:53:03 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/norfolk_phase2_memory_care_units.csv
+01:53:03 [INFO] === oklahoma_city | assisted_living ===
+01:53:04 [INFO]   [oklahoma_city] Browser started
+01:53:04 [INFO] [oklahoma_city] 1/3 Village on the Park Oklahoma City
+01:53:15 [INFO]   ✓ [oklahoma_city] 1/3 saved
+01:53:18 [INFO] [oklahoma_city] 2/3 Epworth Villa
+01:53:32 [INFO]   ✓ [oklahoma_city] 2/3 saved
+01:53:34 [INFO] [oklahoma_city] 3/3 The Harrison of Oklahoma City Assisted Living & Memory Care
+01:53:48 [INFO]   ✓ [oklahoma_city] 3/3 saved
+01:53:50 [INFO]   [oklahoma_city] Browser closed (done)
+01:53:50 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/oklahoma_city_phase2_assisted_living.csv
+01:53:50 [INFO] === oklahoma_city | independent_living ===
+01:53:51 [INFO]   [oklahoma_city] Browser started
+01:53:51 [INFO] [oklahoma_city] 1/3 Belmont Cove North
+01:54:01 [INFO]   ✓ [oklahoma_city] 1/3 saved
+01:54:03 [INFO] [oklahoma_city] 2/3 Tealridge Retirement Community
+01:54:22 [INFO]   ✓ [oklahoma_city] 2/3 saved
+01:54:25 [INFO] [oklahoma_city] 3/3 Oak Haven 55+ Community
+01:54:39 [INFO]   ✓ [oklahoma_city] 3/3 saved
+01:54:41 [INFO]   [oklahoma_city] Browser closed (done)
+01:54:41 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/oklahoma_city_phase2_independent_living.csv
+01:54:41 [INFO] === oklahoma_city | memory_care_units ===
+01:54:42 [INFO]   [oklahoma_city] Browser started
+01:54:42 [INFO] [oklahoma_city] 1/3 Acclaim Living
+01:54:56 [INFO]   ✓ [oklahoma_city] 1/3 saved
+01:54:58 [INFO] [oklahoma_city] 2/3 Hefner Mansions Senior Independent Living
+01:55:13 [INFO]   ✓ [oklahoma_city] 2/3 saved
+01:55:16 [INFO] [oklahoma_city] 3/3 Jasmine Estates of Edmond
+01:55:29 [INFO]   ✓ [oklahoma_city] 3/3 saved
+01:55:31 [INFO]   [oklahoma_city] Browser closed (done)
+01:55:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/oklahoma_city_phase2_memory_care_units.csv
+01:55:31 [INFO] === omaha | assisted_living ===
+01:55:33 [INFO]   [omaha] Browser started
+01:55:33 [INFO] [omaha] 1/3 Aksarben Village Senior Living
+01:55:49 [INFO]   ✓ [omaha] 1/3 saved
+01:55:52 [INFO] [omaha] 2/3 Parsons House Assisted Living & Memory Care
+01:56:05 [INFO]   ✓ [omaha] 2/3 saved
+01:56:07 [INFO] [omaha] 3/3 Crown Pointe
+01:56:21 [INFO]   ✓ [omaha] 3/3 saved
+01:56:23 [INFO]   [omaha] Browser closed (done)
+01:56:23 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/omaha_phase2_assisted_living.csv
+01:56:23 [INFO] === omaha | independent_living ===
+01:56:24 [INFO]   [omaha] Browser started
+01:56:24 [INFO] [omaha] 1/3 Sunridge Village Independent Living Retirement Community
+01:56:38 [INFO]   ✓ [omaha] 1/3 saved
+01:56:41 [INFO] [omaha] 2/3 Keystone Villas Senior Living
+01:56:56 [INFO]   ✓ [omaha] 2/3 saved
+01:56:58 [INFO] [omaha] 3/3 Connect55+ Omaha | 55 Plus Active Adult Retirement Community in Nebraska
+01:57:10 [INFO]   ✓ [omaha] 3/3 saved
+01:57:13 [INFO]   [omaha] Browser closed (done)
+01:57:13 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/omaha_phase2_independent_living.csv
+01:57:13 [INFO] === omaha | memory_care_units ===
+01:57:14 [INFO]   [omaha] Browser started
+01:57:14 [INFO] [omaha] 1/3 Legato Living at Legacy
+01:57:28 [INFO]   ✓ [omaha] 1/3 saved
+01:57:30 [INFO] [omaha] 2/3 St Joseph Tower Assisted Living
+01:57:44 [INFO]   ✓ [omaha] 2/3 saved
+01:57:46 [INFO] [omaha] 3/3 Echo Hills Assisted Living and Memory Care
+01:57:58 [INFO]   ✓ [omaha] 3/3 saved
+01:58:01 [INFO]   [omaha] Browser closed (done)
+01:58:01 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/omaha_phase2_memory_care_units.csv
+01:58:01 [INFO] === orlando | assisted_living ===
+01:58:02 [INFO]   [orlando] Browser started
+01:58:02 [INFO] [orlando] 1/3 Excellence Senior Living
+01:58:13 [INFO]   ✓ [orlando] 1/3 saved
+01:58:15 [INFO] [orlando] 2/3 Gentry Park
+01:58:29 [INFO]   ✓ [orlando] 2/3 saved
+01:58:31 [INFO] [orlando] 3/3 Your Sanctuary Assisted Living
+01:58:46 [INFO]   ✓ [orlando] 3/3 saved
+01:58:48 [INFO]   [orlando] Browser closed (done)
+01:58:48 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/orlando_phase2_assisted_living.csv
+01:58:48 [INFO] === orlando | independent_living ===
+01:58:49 [INFO]   [orlando] Browser started
+01:58:49 [INFO] [orlando] 1/3 Allegro Senior Living Winter Park, FL
+01:59:03 [INFO]   ✓ [orlando] 1/3 saved
+01:59:06 [INFO] [orlando] 2/3 Village Park Senior Living
+01:59:20 [INFO]   ✓ [orlando] 2/3 saved
+01:59:22 [INFO] [orlando] 3/3 Sweet Water of Orlando
+01:59:36 [INFO]   ✓ [orlando] 3/3 saved
+01:59:39 [INFO]   [orlando] Browser closed (done)
+01:59:39 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/orlando_phase2_independent_living.csv
+01:59:39 [INFO] === orlando | memory_care_units ===
+01:59:40 [INFO]   [orlando] Browser started
+01:59:40 [INFO] [orlando] 1/3 HearthStone at Nona Lakes
+01:59:52 [INFO]   ✓ [orlando] 1/3 saved
+01:59:55 [INFO] [orlando] 2/3 Grand Villa of Altamonte Springs
+02:00:10 [INFO]   ✓ [orlando] 2/3 saved
+02:00:12 [INFO] [orlando] 3/3 Ponce Adult Family Care
+02:00:25 [INFO]   ✓ [orlando] 3/3 saved
+02:00:28 [INFO]   [orlando] Browser closed (done)
+02:00:28 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/orlando_phase2_memory_care_units.csv
+02:00:28 [INFO] === philadelphia | assisted_living ===
+02:00:29 [INFO]   [philadelphia] Browser started
+02:00:29 [INFO] [philadelphia] 1/3 Atria Center City
+02:00:45 [INFO]   ✓ [philadelphia] 1/3 saved
+02:00:47 [INFO] [philadelphia] 2/3 Fountain View at Logan Square
+02:01:00 [INFO]   ✓ [philadelphia] 2/3 saved
+02:01:03 [INFO] [philadelphia] 3/3 The Philadelphia Protestant Home
+02:01:13 [INFO]   ✓ [philadelphia] 3/3 saved
+02:01:15 [INFO]   [philadelphia] Browser closed (done)
+02:01:15 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/philadelphia_phase2_assisted_living.csv
+02:01:15 [INFO] === philadelphia | independent_living ===
+02:01:16 [INFO]   [philadelphia] Browser started
+02:01:16 [INFO] [philadelphia] 1/3 York House Apartments
+02:01:32 [INFO]   ✓ [philadelphia] 1/3 saved
+02:01:34 [INFO] [philadelphia] 2/3 Philippian Gardens Senior Citizen Apartments 62+
+02:01:52 [INFO]   ✓ [philadelphia] 2/3 saved
+02:01:55 [INFO] [philadelphia] 3/3 Four Freedoms House of Phila
+02:02:10 [INFO]   ✓ [philadelphia] 3/3 saved
+02:02:12 [INFO]   [philadelphia] Browser closed (done)
+02:02:13 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/philadelphia_phase2_independent_living.csv
+02:02:13 [INFO] === philadelphia | memory_care_units ===
+02:02:14 [INFO]   [philadelphia] Browser started
+02:02:14 [INFO] [philadelphia] 1/3 Artis Senior Living of Huntingdon Valley
+02:02:27 [INFO]   ✓ [philadelphia] 1/3 saved
+02:02:30 [INFO] [philadelphia] 2/3 Orth Home Care
+02:02:43 [INFO]   ✓ [philadelphia] 2/3 saved
+02:02:45 [INFO] [philadelphia] 3/3 Roxborough Home for Women
+02:02:59 [INFO]   ✓ [philadelphia] 3/3 saved
+02:03:02 [INFO]   [philadelphia] Browser closed (done)
+02:03:02 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/philadelphia_phase2_memory_care_units.csv
+02:03:02 [INFO] === phoenix | assisted_living ===
+02:03:03 [INFO]   [phoenix] Browser started
+02:03:03 [INFO] [phoenix] 1/3 MorningStar Assisted Living & Memory Care at Arcadia
+02:03:16 [INFO]   ✓ [phoenix] 1/3 saved
+02:03:18 [INFO] [phoenix] 2/3 Olive Grove, a Vineyard Park community
+02:03:37 [INFO]   ✓ [phoenix] 2/3 saved
+02:03:39 [INFO] [phoenix] 3/3 Silver Star Assisted Living
+02:03:52 [INFO]   ✓ [phoenix] 3/3 saved
+02:03:55 [INFO]   [phoenix] Browser closed (done)
+02:03:55 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/phoenix_phase2_assisted_living.csv
+02:03:55 [INFO] === phoenix | independent_living ===
+02:03:56 [INFO]   [phoenix] Browser started
+02:03:56 [INFO] [phoenix] 1/3 ZEN a 55+ Community
+02:04:07 [INFO]   ✓ [phoenix] 1/3 saved
+02:04:09 [INFO] [phoenix] 2/3 The Forum at Desert Harbor Independent & Assisted Living
+02:04:24 [INFO]   ✓ [phoenix] 2/3 saved
+02:04:27 [INFO] [phoenix] 3/3 LifeStream at Glendale Independent Living
+02:04:39 [INFO]   ✓ [phoenix] 3/3 saved
+02:04:42 [INFO]   [phoenix] Browser closed (done)
+02:04:42 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/phoenix_phase2_independent_living.csv
+02:04:42 [INFO] === phoenix | memory_care_units ===
+02:04:43 [INFO]   [phoenix] Browser started
+02:04:43 [INFO] [phoenix] 1/3 Infinite Pathways Care Home & Memory Care
+02:04:54 [INFO]   ✓ [phoenix] 1/3 saved
+02:04:57 [INFO] [phoenix] 2/3 Dementia Care and Education Campus
+02:05:10 [INFO]   ✓ [phoenix] 2/3 saved
+02:05:12 [INFO] [phoenix] 3/3 American Dream Home LLC
+02:05:28 [INFO]   ✓ [phoenix] 3/3 saved
+02:05:31 [INFO]   [phoenix] Browser closed (done)
+02:05:31 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/phoenix_phase2_memory_care_units.csv
+02:05:31 [INFO] === pittsburgh | assisted_living ===
+02:05:32 [INFO]   [pittsburgh] Browser started
+02:05:32 [INFO] [pittsburgh] 1/3 Fair Oaks Senior Living
+02:05:44 [INFO]   ✓ [pittsburgh] 1/3 saved
+02:05:46 [INFO] [pittsburgh] 2/3 Vincentian Schenley Gardens
+02:05:59 [INFO]   ✓ [pittsburgh] 2/3 saved
+02:06:01 [INFO] [pittsburgh] 3/3 The Haven at North Hills Senior Residence
+02:06:14 [INFO]   ✓ [pittsburgh] 3/3 saved
+02:06:17 [INFO]   [pittsburgh] Browser closed (done)
+02:06:17 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/pittsburgh_phase2_assisted_living.csv
+02:06:17 [INFO] === pittsburgh | independent_living ===
+02:06:18 [INFO]   [pittsburgh] Browser started
+02:06:18 [INFO] [pittsburgh] 1/3 Vanadium Woods Village
+02:06:31 [INFO]   ✓ [pittsburgh] 1/3 saved
+02:06:34 [INFO] [pittsburgh] 2/3 Cedar Ridge Senior Apartments
+02:06:52 [INFO]   ✓ [pittsburgh] 2/3 saved
+02:06:55 [INFO] [pittsburgh] 3/3 Provincial Bethel Park
+02:07:09 [INFO]   ✓ [pittsburgh] 3/3 saved
+02:07:11 [INFO]   [pittsburgh] Browser closed (done)
+02:07:11 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/pittsburgh_phase2_independent_living.csv
+02:07:11 [INFO] === pittsburgh | memory_care_units ===
+02:07:13 [INFO]   [pittsburgh] Browser started
+02:07:13 [INFO] [pittsburgh] 1/3 Whitetail Springs Alzheimer's Special Care Center
+02:07:24 [INFO]   ✓ [pittsburgh] 1/3 saved
+02:07:27 [INFO] [pittsburgh] 2/3 Asbury Heights
+02:07:41 [INFO]   ✓ [pittsburgh] 2/3 saved
+02:07:44 [INFO] [pittsburgh] 3/3 Tapestry Senior Living Moon Township
+02:07:57 [INFO]   ✓ [pittsburgh] 3/3 saved
+02:08:00 [INFO]   [pittsburgh] Browser closed (done)
+02:08:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/pittsburgh_phase2_memory_care_units.csv
+02:08:00 [INFO] === plano | assisted_living ===
+02:08:01 [INFO]   [plano] Browser started
+02:08:01 [INFO] [plano] 1/3 HarborChase of Plano
+02:08:14 [INFO]   ✓ [plano] 1/3 saved
+02:08:17 [INFO] [plano] 2/3 The Waterford at Plano
+02:08:30 [INFO]   ✓ [plano] 2/3 saved
+02:08:32 [INFO] [plano] 3/3 StoryPoint Plano
+02:08:47 [INFO]   ✓ [plano] 3/3 saved
+02:08:50 [INFO]   [plano] Browser closed (done)
+02:08:50 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/plano_phase2_assisted_living.csv
+02:08:50 [INFO] === plano | independent_living ===
+02:08:51 [INFO]   [plano] Browser started
+02:08:51 [INFO] [plano] 1/3 Atria Canyon Creek
+02:09:04 [INFO]   ✓ [plano] 1/3 saved
+02:09:07 [INFO] [plano] 2/3 The Orchards Market Plaza Plano
+02:09:25 [INFO]   ✓ [plano] 2/3 saved
+02:09:28 [INFO] [plano] 3/3 Pioneer Place Senior Housing
+02:09:41 [INFO]   ✓ [plano] 3/3 saved
+02:09:43 [INFO]   [plano] Browser closed (done)
+02:09:43 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/plano_phase2_independent_living.csv
+02:09:43 [INFO] === plano | memory_care_units ===
+02:09:45 [INFO]   [plano] Browser started
+02:09:45 [INFO] [plano] 1/1 Senior Living Specialists
+02:09:57 [INFO]   ✓ [plano] 1/1 saved
+02:10:00 [INFO]   [plano] Browser closed (done)
+02:10:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/plano_phase2_memory_care_units.csv
+02:10:00 [INFO] === portland | assisted_living ===
+02:10:01 [INFO]   [portland] Browser started
+02:10:01 [INFO] [portland] 1/3 Courtyard at Mount Tabor
+02:10:13 [INFO]   ✓ [portland] 1/3 saved
+02:10:16 [INFO] [portland] 2/3 Parkrose Chateau Gracious Retirement Living
+02:10:29 [INFO]   ✓ [portland] 2/3 saved
+02:10:32 [INFO] [portland] 3/3 Markham House
+02:10:46 [INFO]   ✓ [portland] 3/3 saved
+02:10:49 [INFO]   [portland] Browser closed (done)
+02:10:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/portland_phase2_assisted_living.csv
+02:10:49 [INFO] === portland | independent_living ===
+02:10:50 [INFO]   [portland] Browser started
+02:10:50 [INFO] [portland] 1/3 Courtyard Village At Raleigh Hills
+02:11:02 [INFO]   ✓ [portland] 1/3 saved
+02:11:05 [INFO] [portland] 2/3 The Heights at Columbia Knoll Senior Living Apartments
+02:11:19 [INFO]   ✓ [portland] 2/3 saved
+02:11:21 [INFO] [portland] 3/3 The Estates at Town Center
+02:11:36 [INFO]   ✓ [portland] 3/3 saved
+02:11:38 [INFO]   [portland] Browser closed (done)
+02:11:38 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/portland_phase2_independent_living.csv
+02:11:38 [INFO] === portland | memory_care_units ===
+02:11:40 [INFO]   [portland] Browser started
+02:11:40 [INFO] [portland] 1/3 Tabor Crest Memory Care
+02:11:52 [INFO]   ✓ [portland] 1/3 saved
+02:11:55 [INFO] [portland] 2/3 Merrill Gardens at Cedar Mill
+02:12:10 [INFO]   ✓ [portland] 2/3 saved
+02:12:12 [INFO] [portland] 3/3 Parkview
+02:12:23 [INFO]   ✓ [portland] 3/3 saved
+02:12:26 [INFO]   [portland] Browser closed (done)
+02:12:26 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/portland_phase2_memory_care_units.csv
+02:12:26 [INFO] === raleigh | assisted_living ===
+02:12:27 [INFO]   [raleigh] Browser started
+02:12:27 [INFO] [raleigh] 1/3 Cadence North Raleigh
+02:12:39 [INFO]   ✓ [raleigh] 1/3 saved
+02:12:42 [INFO] [raleigh] 2/3 Magnolia Glen
+02:12:56 [INFO]   ✓ [raleigh] 2/3 saved
+02:12:59 [INFO] [raleigh] 3/3 Abbotswood at Stonehenge
+02:13:13 [INFO]   ✓ [raleigh] 3/3 saved
+02:13:16 [INFO]   [raleigh] Browser closed (done)
+02:13:16 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/raleigh_phase2_assisted_living.csv
+02:13:16 [INFO] === raleigh | independent_living ===
+02:13:16 [INFO]   [raleigh] Browser started
+02:13:16 [INFO] [raleigh] 1/3 Springmoor Life Care Retirement Community
+02:13:29 [INFO]   ✓ [raleigh] 1/3 saved
+02:13:32 [INFO] [raleigh] 2/3 Preston Pointe
+02:13:47 [INFO]   ✓ [raleigh] 2/3 saved
+02:13:49 [INFO] [raleigh] 3/3 Bartlett Reserve
+02:14:01 [INFO]   ✓ [raleigh] 3/3 saved
+02:14:04 [INFO]   [raleigh] Browser closed (done)
+02:14:04 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/raleigh_phase2_independent_living.csv
+02:14:04 [INFO] === raleigh | memory_care_units ===
+02:14:05 [INFO]   [raleigh] Browser started
+02:14:05 [INFO] [raleigh] 1/3 Whispering Pines Gracious Retirement Living
+02:14:18 [INFO]   ✓ [raleigh] 1/3 saved
+02:14:21 [INFO] [raleigh] 2/3 Brookdale Cary
+02:14:34 [INFO]   ✓ [raleigh] 2/3 saved
+02:14:37 [INFO] [raleigh] 3/3 PruittHealth - Raleigh
+02:14:52 [INFO]   ✓ [raleigh] 3/3 saved
+02:14:55 [INFO]   [raleigh] Browser closed (done)
+02:14:55 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/raleigh_phase2_memory_care_units.csv
+02:14:55 [INFO] === riverside | assisted_living ===
+02:14:55 [INFO]   [riverside] Browser started
+02:14:55 [INFO] [riverside] 1/3 The Gardens of Riverside
+02:15:09 [INFO]   ✓ [riverside] 1/3 saved
+02:15:11 [INFO] [riverside] 2/3 Citrus Place Senior Living
+02:15:26 [INFO]   ✓ [riverside] 2/3 saved
+02:15:29 [INFO] [riverside] 3/3 Westmont of Riverside
+02:15:42 [INFO]   ✓ [riverside] 3/3 saved
+02:15:45 [INFO]   [riverside] Browser closed (done)
+02:15:45 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/riverside_phase2_assisted_living.csv
+02:15:45 [INFO] === riverside | independent_living ===
+02:15:46 [INFO]   [riverside] Browser started
+02:15:46 [INFO] [riverside] 1/3 Cambridge Gardens Senior Housing
+02:15:53 [INFO]   ✓ [riverside] 1/3 saved
+02:15:56 [INFO] [riverside] 2/3 Goldware Senior Housing
+02:16:11 [INFO]   ✓ [riverside] 2/3 saved
+02:16:14 [INFO] [riverside] 3/3 Independent Living Partnership
+02:16:32 [INFO]   ✓ [riverside] 3/3 saved
+02:16:34 [INFO]   [riverside] Browser closed (done)
+02:16:34 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/riverside_phase2_independent_living.csv
+02:16:34 [INFO] === riverside | memory_care_units ===
+02:16:35 [INFO]   [riverside] Browser started
+02:16:35 [INFO] [riverside] 1/3 Memory Care Our Countryside Resort
+02:16:46 [INFO]   ✓ [riverside] 1/3 saved
+02:16:49 [INFO] [riverside] 2/3 The Grove Care and Wellness
+02:17:03 [INFO]   ✓ [riverside] 2/3 saved
+02:17:06 [INFO] [riverside] 3/3 Arlington Gardens Care Center
+02:17:21 [INFO]   ✓ [riverside] 3/3 saved
+02:17:24 [INFO]   [riverside] Browser closed (done)
+02:17:24 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/riverside_phase2_memory_care_units.csv
+02:17:24 [INFO] === sacramento | assisted_living ===
+02:17:25 [INFO]   [sacramento] Browser started
+02:17:25 [INFO] [sacramento] 1/3 Regency Place Senior Living
+02:17:37 [INFO]   ✓ [sacramento] 1/3 saved
+02:17:39 [INFO] [sacramento] 2/3 Greenhaven Place
+02:17:50 [INFO]   ✓ [sacramento] 2/3 saved
+02:17:53 [INFO] [sacramento] 3/3 Mercy McMahon Terrace
+02:18:05 [INFO]   ✓ [sacramento] 3/3 saved
+02:18:08 [INFO]   [sacramento] Browser closed (done)
+02:18:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/sacramento_phase2_assisted_living.csv
+02:18:08 [INFO] === sacramento | independent_living ===
+02:18:10 [INFO]   [sacramento] Browser started
+02:18:10 [INFO] [sacramento] 1/3 Campus Commons Senior Living
+02:18:23 [INFO]   ✓ [sacramento] 1/3 saved
+02:18:25 [INFO] [sacramento] 2/3 The Landing at Carmichael
+02:18:41 [INFO]   ✓ [sacramento] 2/3 saved
+02:18:43 [INFO] [sacramento] 3/3 Eskaton Natomas Manor
+02:18:55 [INFO]   ✓ [sacramento] 3/3 saved
+02:18:58 [INFO]   [sacramento] Browser closed (done)
+02:18:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/sacramento_phase2_independent_living.csv
+02:18:58 [INFO] === sacramento | memory_care_units ===
+02:18:59 [INFO]   [sacramento] Browser started
+02:18:59 [INFO] [sacramento] 1/3 Revere Court Memory Care
+02:19:10 [INFO]   ✓ [sacramento] 1/3 saved
+02:19:13 [INFO] [sacramento] 2/3 Gramercy Court Assisted Living and Memory Care
+02:19:45 [INFO]   ✓ [sacramento] 2/3 saved
+02:19:48 [INFO] [sacramento] 3/3 American River Care Home
+02:20:05 [INFO]   ✓ [sacramento] 3/3 saved
+02:20:08 [INFO]   [sacramento] Browser closed (done)
+02:20:08 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/sacramento_phase2_memory_care_units.csv
+02:20:08 [INFO] === san_antonio | assisted_living ===
+02:20:09 [INFO]   [san_antonio] Browser started
+02:20:09 [INFO] [san_antonio] 1/3 Villa de San Antonio Senior & Assisted Living
+02:20:24 [INFO]   ✓ [san_antonio] 1/3 saved
+02:20:27 [INFO] [san_antonio] 2/3 Senior Living Specialists San Antonio
+02:20:41 [INFO]   ✓ [san_antonio] 2/3 saved
+02:20:43 [INFO] [san_antonio] 3/3 The Waterford at Westover Hills
+02:21:00 [INFO]   ✓ [san_antonio] 3/3 saved
+02:21:02 [INFO]   [san_antonio] Browser closed (done)
+02:21:02 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_antonio_phase2_assisted_living.csv
+02:21:02 [INFO] === san_antonio | independent_living ===
+02:21:03 [INFO]   [san_antonio] Browser started
+02:21:03 [INFO] [san_antonio] 1/3 Madison Estates - Sky Active Living
+02:21:17 [INFO]   ✓ [san_antonio] 1/3 saved
+02:21:20 [INFO] [san_antonio] 2/3 Morningside at The Meadows Independent Living
+02:21:38 [INFO]   ✓ [san_antonio] 2/3 saved
+02:21:41 [INFO] [san_antonio] 3/3 The Waterford at Thousand Oaks
+02:21:55 [INFO]   ✓ [san_antonio] 3/3 saved
+02:21:57 [INFO]   [san_antonio] Browser closed (done)
+02:21:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_antonio_phase2_independent_living.csv
+02:21:58 [INFO] === san_antonio | memory_care_units ===
+02:21:59 [INFO]   [san_antonio] Browser started
+02:21:59 [INFO] [san_antonio] 1/3 Seasons Memory care at Shavano Park
+02:22:10 [INFO]   ✓ [san_antonio] 1/3 saved
+02:22:12 [INFO] [san_antonio] 2/3 Seasons Alzheimer’s Care and Assisted Living
+02:22:25 [INFO]   ✓ [san_antonio] 2/3 saved
+02:22:27 [INFO] [san_antonio] 3/3 Red Oak Memory Care, LLC
+02:22:41 [INFO]   ✓ [san_antonio] 3/3 saved
+02:22:44 [INFO]   [san_antonio] Browser closed (done)
+02:22:44 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_antonio_phase2_memory_care_units.csv
+02:22:44 [INFO] === san_diego | assisted_living ===
+02:22:45 [INFO]   [san_diego] Browser started
+02:22:45 [INFO] [san_diego] 1/3 Vi at La Jolla Village
+02:22:59 [INFO]   ✓ [san_diego] 1/3 saved
+02:23:01 [INFO] [san_diego] 2/3 HarborView Senior Assisted Living
+02:23:16 [INFO]   ✓ [san_diego] 2/3 saved
+02:23:18 [INFO] [san_diego] 3/3 Belmont Village Senior Living Sabre Springs
+02:23:31 [INFO]   ✓ [san_diego] 3/3 saved
+02:23:34 [INFO]   [san_diego] Browser closed (done)
+02:23:34 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_diego_phase2_assisted_living.csv
+02:23:34 [INFO] === san_diego | independent_living ===
+02:23:35 [INFO]   [san_diego] Browser started
+02:23:35 [INFO] [san_diego] 1/3 Villa Pacifica
+02:23:50 [INFO]   ✓ [san_diego] 1/3 saved
+02:23:52 [INFO] [san_diego] 2/3 Belmont Village Senior Living La Jolla
+02:24:06 [INFO]   ✓ [san_diego] 2/3 saved
+02:24:09 [INFO] [san_diego] 3/3 Town Park Villas Senior Apartments 55+
+02:24:23 [INFO]   ✓ [san_diego] 3/3 saved
+02:24:25 [INFO]   [san_diego] Browser closed (done)
+02:24:25 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_diego_phase2_independent_living.csv
+02:24:25 [INFO] === san_diego | memory_care_units ===
+02:24:26 [INFO]   [san_diego] Browser started
+02:24:26 [INFO] [san_diego] 1/3 Summer House Memory Care at Wesley Palms
+02:24:38 [INFO]   ✓ [san_diego] 1/3 saved
+02:24:40 [INFO] [san_diego] 2/3 Mount Carmel Assisted Living
+02:24:55 [INFO]   ✓ [san_diego] 2/3 saved
+02:24:57 [INFO] [san_diego] 3/3 Villa Lorena Senior Living
+02:25:09 [INFO]   ✓ [san_diego] 3/3 saved
+02:25:12 [INFO]   [san_diego] Browser closed (done)
+02:25:12 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_diego_phase2_memory_care_units.csv
+02:25:12 [INFO] === san_francisco | assisted_living ===
+02:25:13 [INFO]   [san_francisco] Browser started
+02:25:13 [INFO] [san_francisco] 1/3 Coterie Cathedral Hill
+02:25:27 [INFO]   ✓ [san_francisco] 1/3 saved
+02:25:29 [INFO] [san_francisco] 2/3 AlmaVia of San Francisco
+02:25:42 [INFO]   ✓ [san_francisco] 2/3 saved
+02:25:45 [INFO] [san_francisco] 3/3 Sagebrook Senior Living
+02:25:55 [INFO]   ✓ [san_francisco] 3/3 saved
+02:25:57 [INFO]   [san_francisco] Browser closed (done)
+02:25:57 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_francisco_phase2_assisted_living.csv
+02:25:57 [INFO] === san_francisco | independent_living ===
+02:25:59 [INFO]   [san_francisco] Browser started
+02:25:59 [INFO] [san_francisco] 1/3 Independent Living Resource Center San Francisco
+02:26:15 [INFO]   ✓ [san_francisco] 1/3 saved
+02:26:18 [INFO] [san_francisco] 2/3 1440 By The Bay Senior Living
+02:26:32 [INFO]   ✓ [san_francisco] 2/3 saved
+02:26:34 [INFO] [san_francisco] 3/3 Notre Dame Senior Plaza
+02:26:53 [INFO]   ✓ [san_francisco] 3/3 saved
+02:26:56 [INFO]   [san_francisco] Browser closed (done)
+02:26:56 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_francisco_phase2_independent_living.csv
+02:26:56 [INFO] === san_francisco | memory_care_units ===
+02:26:57 [INFO]   [san_francisco] Browser started
+02:26:57 [INFO] [san_francisco] 1/3 Mission Villa Senior Living
+02:27:11 [INFO]   ✓ [san_francisco] 1/3 saved
+02:27:14 [INFO] [san_francisco] 2/3 Julie’s Care Home
+02:27:28 [INFO]   ✓ [san_francisco] 2/3 saved
+02:27:31 [INFO] [san_francisco] 3/3 San Francisco Campus for Jewish Living
+02:27:45 [INFO]   ✓ [san_francisco] 3/3 saved
+02:27:47 [INFO]   [san_francisco] Browser closed (done)
+02:27:47 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_francisco_phase2_memory_care_units.csv
+02:27:47 [INFO] === san_jose | assisted_living ===
+02:27:48 [INFO]   [san_jose] Browser started
+02:27:48 [INFO] [san_jose] 1/3 Belmont Village Senior Living San Jose
+02:28:03 [INFO]   ✓ [san_jose] 1/3 saved
+02:28:05 [INFO] [san_jose] 2/3 Marbella San Jose
+02:28:19 [INFO]   ✓ [san_jose] 2/3 saved
+02:28:21 [INFO] [san_jose] 3/3 Ivy Park at San Jose
+02:28:36 [INFO]   ✓ [san_jose] 3/3 saved
+02:28:38 [INFO]   [san_jose] Browser closed (done)
+02:28:38 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_jose_phase2_assisted_living.csv
+02:28:38 [INFO] === san_jose | independent_living ===
+02:28:40 [INFO]   [san_jose] Browser started
+02:28:40 [INFO] [san_jose] 1/3 Valley Village Retirement Community
+02:28:51 [INFO]   ✓ [san_jose] 1/3 saved
+02:28:54 [INFO] [san_jose] 2/3 Villa Serena Retirement Community
+02:29:08 [INFO]   ✓ [san_jose] 2/3 saved
+02:29:11 [INFO] [san_jose] 3/3 Saratoga Retirement Community
+02:29:25 [INFO]   ✓ [san_jose] 3/3 saved
+02:29:28 [INFO]   [san_jose] Browser closed (done)
+02:29:28 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_jose_phase2_independent_living.csv
+02:29:28 [INFO] === san_jose | memory_care_units ===
+02:29:28 [INFO]   [san_jose] Browser started
+02:29:28 [INFO] [san_jose] 1/3 Lincoln Glen Manor
+02:29:43 [INFO]   ✓ [san_jose] 1/3 saved
+02:29:45 [INFO] [san_jose] 2/3 Grace Garden
+02:29:57 [INFO]   ✓ [san_jose] 2/3 saved
+02:30:00 [INFO] [san_jose] 3/3 Ivy Park at Milpitas
+02:30:19 [INFO]   ✓ [san_jose] 3/3 saved
+02:30:21 [INFO]   [san_jose] Browser closed (done)
+02:30:22 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/san_jose_phase2_memory_care_units.csv
+02:30:22 [INFO] === seattle | assisted_living ===
+02:30:23 [INFO]   [seattle] Browser started
+02:30:23 [INFO] [seattle] 1/3 The Lakeshore
+02:30:35 [INFO]   ✓ [seattle] 1/3 saved
+02:30:38 [INFO] [seattle] 2/3 Merrill Gardens at The University
+02:30:56 [INFO]   ✓ [seattle] 2/3 saved
+02:30:59 [INFO] [seattle] 3/3 Murano Senior Living
+02:31:12 [INFO]   ✓ [seattle] 3/3 saved
+02:31:15 [INFO]   [seattle] Browser closed (done)
+02:31:15 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/seattle_phase2_assisted_living.csv
+02:31:15 [INFO] === seattle | independent_living ===
+02:31:17 [INFO]   [seattle] Browser started
+02:31:17 [INFO] [seattle] 1/3 Village Green West Seattle
+02:31:29 [INFO]   ✓ [seattle] 1/3 saved
+02:31:31 [INFO] [seattle] 2/3 Norse Home
+02:31:41 [INFO]   ✓ [seattle] 2/3 saved
+02:31:44 [INFO] [seattle] 3/3 Boulevard Park Place Active Retirement Living
+02:31:57 [INFO]   ✓ [seattle] 3/3 saved
+02:32:00 [INFO]   [seattle] Browser closed (done)
+02:32:00 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/seattle_phase2_independent_living.csv
+02:32:00 [INFO] === seattle | memory_care_units ===
+02:32:01 [INFO]   [seattle] Browser started
+02:32:01 [INFO] [seattle] 1/3 Mary Schwartz Summit
+02:32:14 [INFO]   ✓ [seattle] 1/3 saved
+02:32:17 [INFO] [seattle] 2/3 Excellent Loving Care Adult Family Home
+02:32:30 [INFO]   ✓ [seattle] 2/3 saved
+02:32:32 [INFO] [seattle] 3/3 Jefferson House Memory Care Community
+02:32:46 [INFO]   ✓ [seattle] 3/3 saved
+02:32:49 [INFO]   [seattle] Browser closed (done)
+02:32:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/seattle_phase2_memory_care_units.csv
+02:32:49 [INFO] === st_louis | assisted_living ===
+02:32:50 [INFO]   [st_louis] Browser started
+02:32:50 [INFO] [st_louis] 1/3 St. Louis Hills Assisted Living & Memory Care
+02:33:01 [INFO]   ✓ [st_louis] 1/3 saved
+02:33:03 [INFO] [st_louis] 2/3 St Louis Altenheim
+02:33:22 [INFO]   ✓ [st_louis] 2/3 saved
+02:33:25 [INFO] [st_louis] 3/3 St. Elizabeth Hall
+02:33:38 [INFO]   ✓ [st_louis] 3/3 saved
+02:33:41 [INFO]   [st_louis] Browser closed (done)
+02:33:41 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_louis_phase2_assisted_living.csv
+02:33:41 [INFO] === st_louis | independent_living ===
+02:33:42 [INFO]   [st_louis] Browser started
+02:33:42 [INFO] [st_louis] 1/3 Unbridled Living of St. Peters
+02:33:53 [INFO]   ✓ [st_louis] 1/3 saved
+02:33:55 [INFO] [st_louis] 2/3 House at Westminster
+02:34:06 [INFO]   ✓ [st_louis] 2/3 saved
+02:34:09 [INFO] [st_louis] 3/3 St. Catherine Retirement Community
+02:34:24 [INFO]   ✓ [st_louis] 3/3 saved
+02:34:26 [INFO]   [st_louis] Browser closed (done)
+02:34:26 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_louis_phase2_independent_living.csv
+02:34:26 [INFO] === st_louis | memory_care_units ===
+02:34:27 [INFO]   [st_louis] Browser started
+02:34:27 [INFO] [st_louis] 1/3 SAGE Dementia Care
+02:34:39 [INFO]   ✓ [st_louis] 1/3 saved
+02:34:42 [INFO] [st_louis] 2/3 The Estates of Hidden Lake
+02:34:54 [INFO]   ✓ [st_louis] 2/3 saved
+02:34:57 [INFO] [st_louis] 3/3 Autumn View Gardens Creve Coeur
+02:35:11 [INFO]   ✓ [st_louis] 3/3 saved
+02:35:14 [INFO]   [st_louis] Browser closed (done)
+02:35:14 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_louis_phase2_memory_care_units.csv
+02:35:14 [INFO] === st_paul | assisted_living ===
+02:35:15 [INFO]   [st_paul] Browser started
+02:35:15 [INFO] [st_paul] 1/3 The Waters of Highland Park
+02:35:28 [INFO]   ✓ [st_paul] 1/3 saved
+02:35:30 [INFO] [st_paul] 2/3 Summit Hill Senior Living
+02:35:44 [INFO]   ✓ [st_paul] 2/3 saved
+02:35:47 [INFO] [st_paul] 3/3 Restful Living.
+02:36:01 [INFO]   ✓ [st_paul] 3/3 saved
+02:36:04 [INFO]   [st_paul] Browser closed (done)
+02:36:04 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_paul_phase2_assisted_living.csv
+02:36:04 [INFO] === st_paul | independent_living ===
+02:36:05 [INFO]   [st_paul] Browser started
+02:36:05 [INFO] [st_paul] 1/3 Oak Meadows Senior Living
+02:36:18 [INFO]   ✓ [st_paul] 1/3 saved
+02:36:20 [INFO] [st_paul] 2/3 Arbor Pointe Apartments
+02:36:31 [INFO]   ✓ [st_paul] 2/3 saved
+02:36:34 [INFO] [st_paul] 3/3 Country Club Manor Apartments for After 55 Independent Living
+02:36:52 [INFO]   ✓ [st_paul] 3/3 saved
+02:36:55 [INFO]   [st_paul] Browser closed (done)
+02:36:55 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_paul_phase2_independent_living.csv
+02:36:55 [INFO] === st_paul | memory_care_units ===
+02:36:56 [INFO]   [st_paul] Browser started
+02:36:56 [INFO] [st_paul] 1/3 Westwood Ridge 1 by Vivie
+02:37:09 [INFO]   ✓ [st_paul] 1/3 saved
+02:37:12 [INFO] [st_paul] 2/3 Gable Pines
+02:37:25 [INFO]   ✓ [st_paul] 2/3 saved
+02:37:28 [INFO] [st_paul] 3/3 White Pine Advanced Assisted Living and Memory Care - Mendota Heights
+02:37:41 [INFO]   ✓ [st_paul] 3/3 saved
+02:37:44 [INFO]   [st_paul] Browser closed (done)
+02:37:44 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/st_paul_phase2_memory_care_units.csv
+02:37:44 [INFO] === stockton | assisted_living ===
+02:37:44 [INFO]   [stockton] Browser started
+02:37:44 [INFO] [stockton] 1/3 Rio Las Palmas
+02:37:58 [INFO]   ✓ [stockton] 1/3 saved
+02:38:00 [INFO] [stockton] 2/3 Summerfield of Stockton
+02:38:12 [INFO]   ✓ [stockton] 2/3 saved
+02:38:15 [INFO] [stockton] 3/3 Oakmont of Brookside
+02:38:26 [INFO]   ✓ [stockton] 3/3 saved
+02:38:29 [INFO]   [stockton] Browser closed (done)
+02:38:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/stockton_phase2_assisted_living.csv
+02:38:29 [INFO] === stockton | independent_living ===
+02:38:30 [INFO]   [stockton] Browser started
+02:38:30 [INFO] [stockton] 1/3 Revel Lodi
+02:38:44 [INFO]   ✓ [stockton] 1/3 saved
+02:38:46 [INFO] [stockton] 2/3 Solstice Senior Living at Lodi
+02:39:01 [INFO]   ✓ [stockton] 2/3 saved
+02:39:03 [INFO] [stockton] 3/3 Creekside Care Center
+02:39:17 [INFO]   ✓ [stockton] 3/3 saved
+02:39:20 [INFO]   [stockton] Browser closed (done)
+02:39:20 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/stockton_phase2_independent_living.csv
+02:39:20 [INFO] === stockton | memory_care_units ===
+02:39:21 [INFO]   [stockton] Browser started
+02:39:21 [INFO] [stockton] 1/3 Brookside Care Center
+02:39:33 [INFO]   ✓ [stockton] 1/3 saved
+02:39:35 [INFO] [stockton] 2/3 Home Instead
+02:39:47 [INFO]   ✓ [stockton] 2/3 saved
+02:39:50 [INFO] [stockton] 3/3 Briones Family Homecare LLC
+02:40:03 [INFO]   ✓ [stockton] 3/3 saved
+02:40:06 [INFO]   [stockton] Browser closed (done)
+02:40:06 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/stockton_phase2_memory_care_units.csv
+02:40:06 [INFO] === tampa | assisted_living ===
+02:40:07 [INFO]   [tampa] Browser started
+02:40:07 [INFO] [tampa] 1/3 Great American Assisted Living at Tampa
+02:40:20 [INFO]   ✓ [tampa] 1/3 saved
+02:40:23 [INFO] [tampa] 2/3 Allegro Senior Living South Tampa Hyde Park, FL
+02:40:42 [INFO]   ✓ [tampa] 2/3 saved
+02:40:44 [INFO] [tampa] 3/3 Hudson Manor Assisted Living
+02:40:56 [INFO]   ✓ [tampa] 3/3 saved
+02:40:59 [INFO]   [tampa] Browser closed (done)
+02:40:59 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tampa_phase2_assisted_living.csv
+02:40:59 [INFO] === tampa | independent_living ===
+02:41:00 [INFO]   [tampa] Browser started
+02:41:00 [INFO] [tampa] 1/3 Hawthorne Estates of Brandon (Independent Living)
+02:41:14 [INFO]   ✓ [tampa] 1/3 saved
+02:41:16 [INFO] [tampa] 2/3 Tampa Baptist Manor Inc
+02:41:29 [INFO]   ✓ [tampa] 2/3 saved
+02:41:32 [INFO] [tampa] 3/3 Independent Living Inc
+02:41:46 [INFO]   ✓ [tampa] 3/3 saved
+02:41:49 [INFO]   [tampa] Browser closed (done)
+02:41:49 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tampa_phase2_independent_living.csv
+02:41:49 [INFO] === tampa | memory_care_units ===
+02:41:50 [INFO]   [tampa] Browser started
+02:41:50 [INFO] [tampa] 1/3 Arden Courts (Tampa)
+02:42:01 [INFO]   ✓ [tampa] 1/3 saved
+02:42:04 [INFO] [tampa] 2/3 Renaissance of North Tampa
+02:42:17 [INFO]   ✓ [tampa] 2/3 saved
+02:42:19 [INFO] [tampa] 3/3 Concordia Village of Tampa
+02:42:33 [INFO]   ✓ [tampa] 3/3 saved
+02:42:36 [INFO]   [tampa] Browser closed (done)
+02:42:36 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tampa_phase2_memory_care_units.csv
+02:42:36 [INFO] === toledo | assisted_living ===
+02:42:37 [INFO]   [toledo] Browser started
+02:42:37 [INFO] [toledo] 1/3 Oakleaf Village of Toledo - Sylvania
+02:42:50 [INFO]   ✓ [toledo] 1/3 saved
+02:42:52 [INFO] [toledo] 2/3 Glass Peaks Senior Living
+02:43:05 [INFO]   ✓ [toledo] 2/3 saved
+02:43:08 [INFO] [toledo] 3/3 AVIVA Glendale
+02:43:20 [INFO]   ✓ [toledo] 3/3 saved
+02:43:22 [INFO]   [toledo] Browser closed (done)
+02:43:22 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/toledo_phase2_assisted_living.csv
+02:43:22 [INFO] === toledo | independent_living ===
+02:43:23 [INFO]   [toledo] Browser started
+02:43:23 [INFO] [toledo] 1/2 The Waterford at Levis Commons
+02:43:36 [INFO]   ✓ [toledo] 1/2 saved
+02:43:39 [INFO] [toledo] 2/2 Cranes Landing
+02:43:55 [INFO]   ✓ [toledo] 2/2 saved
+02:43:58 [INFO]   [toledo] Browser closed (done)
+02:43:58 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/toledo_phase2_independent_living.csv
+02:43:58 [INFO] === toledo | memory_care_units ===
+02:43:59 [INFO]   [toledo] Browser started
+02:43:59 [INFO] [toledo] 1/2 MemoryLane Care Services
+02:44:11 [INFO]   ✓ [toledo] 1/2 saved
+02:44:13 [INFO] [toledo] 2/2 Kingston Residence of Sylvania
+02:44:24 [INFO]   ✓ [toledo] 2/2 saved
+02:44:27 [INFO]   [toledo] Browser closed (done)
+02:44:27 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/toledo_phase2_memory_care_units.csv
+02:44:27 [INFO] === tucson | assisted_living ===
+02:44:28 [INFO]   [tucson] Browser started
+02:44:28 [INFO] [tucson] 1/3 Broadway Proper Assisted & Senior Living
+02:44:42 [INFO]   ✓ [tucson] 1/3 saved
+02:44:45 [INFO] [tucson] 2/3 Via Elegante Assisted Living Tucson Foothills
+02:44:57 [INFO]   ✓ [tucson] 2/3 saved
+02:45:00 [INFO] [tucson] 3/3 Atria Campana del Rio
+02:45:14 [INFO]   ✓ [tucson] 3/3 saved
+02:45:17 [INFO]   [tucson] Browser closed (done)
+02:45:17 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tucson_phase2_assisted_living.csv
+02:45:17 [INFO] === tucson | independent_living ===
+02:45:18 [INFO]   [tucson] Browser started
+02:45:18 [INFO] [tucson] 1/3 Catalina Village
+02:45:30 [INFO]   ✓ [tucson] 1/3 saved
+02:45:32 [INFO] [tucson] 2/3 Nara Brown Team, Long Realty
+02:45:46 [INFO]   ✓ [tucson] 2/3 saved
+02:45:48 [INFO] [tucson] 3/3 Casas Adobes Assisted Living
+02:46:02 [INFO]   ✓ [tucson] 3/3 saved
+02:46:05 [INFO]   [tucson] Browser closed (done)
+02:46:05 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tucson_phase2_independent_living.csv
+02:46:05 [INFO] === tucson | memory_care_units ===
+02:46:06 [INFO]   [tucson] Browser started
+02:46:06 [INFO] [tucson] 1/3 Copper Canyon Memory Care
+02:46:19 [INFO]   ✓ [tucson] 1/3 saved
+02:46:22 [INFO] [tucson] 2/3 The Hacienda at the Canyon
+02:46:35 [INFO]   ✓ [tucson] 2/3 saved
+02:46:38 [INFO] [tucson] 3/3 Villa De Hope
+02:46:56 [INFO]   ✓ [tucson] 3/3 saved
+02:46:59 [INFO]   [tucson] Browser closed (done)
+02:46:59 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/tucson_phase2_memory_care_units.csv
+02:46:59 [INFO] === virginia_beach | assisted_living ===
+02:47:00 [INFO]   [virginia_beach] Browser started
+02:47:00 [INFO] [virginia_beach] 1/3 The Waterford at Virginia Beach
+02:47:12 [INFO]   ✓ [virginia_beach] 1/3 saved
+02:47:15 [INFO] [virginia_beach] 2/3 Bay Lake Retirement and Assisted Living Community
+02:47:28 [INFO]   ✓ [virginia_beach] 2/3 saved
+02:47:30 [INFO] [virginia_beach] 3/3 Bickford of Virginia Beach
+02:47:42 [INFO]   ✓ [virginia_beach] 3/3 saved
+02:47:45 [INFO]   [virginia_beach] Browser closed (done)
+02:47:45 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/virginia_beach_phase2_assisted_living.csv
+02:47:45 [INFO] === virginia_beach | independent_living ===
+02:47:46 [INFO]   [virginia_beach] Browser started
+02:47:46 [INFO] [virginia_beach] 1/3 The Cottages at Town Center, a 55+ Townhome Community
+02:48:00 [INFO]   ✓ [virginia_beach] 1/3 saved
+02:48:02 [INFO] [virginia_beach] 2/3 The Talbot on Granby
+02:48:16 [INFO]   ✓ [virginia_beach] 2/3 saved
+02:48:18 [INFO] [virginia_beach] 3/3 Old Donation Apartments
+02:48:33 [INFO]   ✓ [virginia_beach] 3/3 saved
+02:48:35 [INFO]   [virginia_beach] Browser closed (done)
+02:48:35 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/virginia_beach_phase2_independent_living.csv
+02:48:35 [INFO] === virginia_beach | memory_care_units ===
+02:48:36 [INFO]   [virginia_beach] Browser started
+02:48:36 [INFO] [virginia_beach] 1/1 VIVA Memory Care at Chesapeake
+02:48:49 [INFO]   ✓ [virginia_beach] 1/1 saved
+02:48:52 [INFO]   [virginia_beach] Browser closed (done)
+02:48:52 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/virginia_beach_phase2_memory_care_units.csv
+02:48:52 [INFO] === washington | assisted_living ===
+02:48:53 [INFO]   [washington] Browser started
+02:48:53 [INFO] [washington] 1/3 Chevy Chase House
+02:49:06 [INFO]   ✓ [washington] 1/3 saved
+02:49:08 [INFO] [washington] 2/3 Maple Heights Senior Living
+02:49:27 [INFO]   ✓ [washington] 2/3 saved
+02:49:30 [INFO] [washington] 3/3 The Residences at Thomas Circle
+02:49:45 [INFO]   ✓ [washington] 3/3 saved
+02:49:47 [INFO]   [washington] Browser closed (done)
+02:49:47 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/washington_phase2_assisted_living.csv
+02:49:47 [INFO] === washington | independent_living ===
+02:49:48 [INFO]   [washington] Browser started
+02:49:48 [INFO] [washington] 1/3 The View Alexandria by Goodwin Living
+02:50:02 [INFO]   ✓ [washington] 1/3 saved
+02:50:05 [INFO] [washington] 2/3 Meridian Senior Living
+02:50:20 [INFO]   ✓ [washington] 2/3 saved
+02:50:22 [INFO] [washington] 3/3 Brightview West End - Senior Independent Living, Assisted Living, Memory Care, Enhanced Care
+02:50:36 [INFO]   ✓ [washington] 3/3 saved
+02:50:39 [INFO]   [washington] Browser closed (done)
+02:50:39 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/washington_phase2_independent_living.csv
+02:50:39 [INFO] === washington | memory_care_units ===
+02:50:40 [INFO]   [washington] Browser started
+02:50:40 [INFO] [washington] 1/3 Silverado Alexandria Memory Care Community
+02:50:54 [INFO]   ✓ [washington] 1/3 saved
+02:50:56 [INFO] [washington] 2/3 Great Falls Memory Care by Artis
+02:51:09 [INFO]   ✓ [washington] 2/3 saved
+02:51:12 [INFO] [washington] 3/3 Auxiliary House Memory Care Home
+02:51:26 [INFO]   ✓ [washington] 3/3 saved
+02:51:29 [INFO]   [washington] Browser closed (done)
+02:51:29 [INFO] CSV  → /home/ubuntu/maps-scraper/outputs/phase2/washington_phase2_memory_care_units.csv
+02:51:29 [INFO] All cities done. Total: 611 facilities.
