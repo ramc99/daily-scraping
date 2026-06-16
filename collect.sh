@@ -15,11 +15,11 @@ if [ -d ~/maps-scraper/outputs ]; then
 fi
 
 # seniorly-2
-for dir in ~/seniorly-2/output ~/seniorly-2/outputs ~/seniorly-2/results; do
+mkdir -p "$DEST/seniorly-2"
+for dir in ~/seniorly-2/output_indep ~/seniorly-2/output_memory; do
     if [ -d "$dir" ]; then
-        cp -r "$dir" "$DEST/seniorly-2"
-        echo "  ✓ seniorly-2"
-        break
+        cp -r "$dir" "$DEST/seniorly-2/"
+        echo "  ✓ seniorly-2/$(basename $dir)"
     fi
 done
 
