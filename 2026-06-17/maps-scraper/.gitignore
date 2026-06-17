@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+<<<<<<< HEAD
+=======
+venv/
+>>>>>>> a242fca (Daily scraping outputs + code 2026-06-17)
