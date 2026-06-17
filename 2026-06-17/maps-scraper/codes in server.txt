@@ -1,0 +1,28 @@
+for f in ~/maps-scraper/outputs/phase1/*_phase1_*.csv; do
+    base=$(basename $f | sed 's/_phase1_/_phase2_/')
+    p2=~/maps-scraper/outputs/phase2/$base
+    p1lines=$(wc -l < $f)
+    if [ -f "$p2" ]; then
+      p2lines=$(wc -l < $p2)
+      if [ "$p2lines" -lt "$p1lines" ]; then
+        echo "INCOMPLETE: $base (phase1=$p1lines, phase2=$p2lines)"
+      fi
+    fi
+  done
+ for testting incompletes
+
+
+ for f in ~/maps-scraper/outputs/phase1/*_phase1_*.csv; do
+    base=$(basename $f | sed 's/_phase1_/_phase2_/')
+    p2=~/maps-scraper/outputs/phase2/$base
+    p1lines=$(wc -l < $f)
+    if [ -f "$p2" ]; then
+      p2lines=$(wc -l < $p2)
+      if [ "$p2lines" -lt "$p1lines" ]; then
+        echo "Deleting: $base"
+        rm "$p2"
+      fi
+    fi
+  done
+
+ for deleting those incompletes
